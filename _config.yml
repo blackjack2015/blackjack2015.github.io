@@ -17,8 +17,8 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
+   link: "/"
  - name: "Resume"
-   link: "resume.pdf"
+   link: "Resume_Qiang_Wang_PhD_CS_HKBU.pdf"
  - name: "Contact"
    link: "contact"
