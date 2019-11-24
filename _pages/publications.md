@@ -18,7 +18,6 @@ author_profile: true
 -->
 
 ## 3D Vision
-+ **Q. Wang**, S. Zheng, K. Zhao, and X.-W Chu, "Jointly Learning Disparity and Surface Normal from Stereo Vision with Geometric-aware Modules".
 + **Q. Wang**, S. Shi, S. Zheng, K. Zhao, and X.-W Chu, "FADNet: A Fast and Accurate Network for Disparity Estimation".
 + **Q. Wang**, S. Zheng, Q. Yan, F. Deng, K. Zhao, and X.-W Chu, "IRS: A Large Synthetic Indoor Robotics Stereo Dataset for Disparity and Surface Normal Estimation".
 
