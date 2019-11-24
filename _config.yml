@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Qiang Wang"
-  avatar           : "profile.png"
+  avatar           : "Jack.jpeg"
   bio              : "PhD student in Computer Science, Hong Kong Baptist University"
   location         : "Hong Kong, China"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=6YzjcNgAAAAJ"
-  email            :
+  email            : "qiangwang@comp.hkbu.edu.hk"
   researchgate     : "https://www.researchgate.net/profile/Qiang_Wang96"
   uri              :
   bitbucket        :
