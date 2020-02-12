@@ -18,10 +18,13 @@ author_profile: true
 -->
 
 ## 3D Vision
-+ **Q. Wang**, S. Shi, S. Zheng, K. Zhao, and X.-W Chu, "FADNet: A Fast and Accurate Network for Disparity Estimation".
++ **Q. Wang**, S. Shi, S. Zheng, K. Zhao, and X.-W Chu, "FADNet: A Fast and Accurate Network for Disparity Estimation". 2020 International Conference on Robotics and Automation (ICRA). IEEE, 2020.
 + **Q. Wang**, S. Zheng, Q. Yan, F. Deng, K. Zhao, and X.-W Chu, "IRS: A Large Synthetic Indoor Robotics Stereo Dataset for Disparity and Surface Normal Estimation".
 
 ## GPU Computing
++ **Q. Wang**, C. Liu, and X.-W Chu, "GPGPU Performance Estimation for Frequency Scaling Using Cross-Benchmarking" Proceedings of the 13th Workshop on General Purpose Processing Using GPUs. 2020.
++ **Q. Wang** and X.-W, Chu, "GPGPU Performance Estimation with Core and Memory Frequency Scaling," IEEE Transactions on Parallel and Distributed Systems. (major revision)
++ C. Liu, **Q. Wang** and X.-W, Chu, "ESetStore: an Erasure-coded Storage System with Fast Data Recovery," IEEE Transactions on Parallel and Distributed Systems. (major revision)
 + Z. Tang, Y. Wang, **Q. Wang**, and X.-W. Chu, "The Impact of GPU DVFS on the Energy and Performance of Deep Learning: an Empirical Study," ACM e-Energy 2019, Phoenix, AZ, USA, June 2019. (notes paper)
 + **Q. Wang** and X.-W. Chu, "GPGPU Performance Estimation with Core and Memory Frequency Scaling," IEEE International Conference on Parallel and Distributed Systems (ICPADS) 2018, Singapore, Dec 2018. [A poster of this work has been presented at The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC18), Dallas, USA, Nov 2018.]
 + C. Liu, **Q. Wang**, X.-W. Chu, and Y.-W. Leung, "G-CRS: GPU Accelerated Cauchy Reed-Solomon Coding," IEEE Transactions on Parallel and Distributed Systems, Vol. 29, No. 7, pages 1482-1498, July 2018.
