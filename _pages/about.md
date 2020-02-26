@@ -11,6 +11,9 @@ redirect_from:
 
 Qiang Wang received his B.E. degree from South China University of Technology in 2014. He is currently a Ph.D. candidate at Department of Computer Science, Hong Kong Baptist University, under supervision of [Prof. X.-W Chu](https://www.comp.hkbu.edu.hk/~chxw/). His research interests include General Purpose GPU Computing, Deep Learning, and 3D Vision. He is a recipient of Hong Kong PhD Fellowship.
 
+## News
++ The paper "FADNet: A Fast and Accurate Network for Disparity Estimation" has been accepted by ICRA 2020.
+
 ## Biography
 + 2015-2020, Ph.D. student, Hong Kong Baptist University, supervised by [Prof. X.-W Chu](https://www.comp.hkbu.edu.hk/~chxw/)
 + 2019.08-2019.12, Research Intern, Nvidia Corporation
