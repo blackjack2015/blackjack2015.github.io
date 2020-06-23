@@ -13,6 +13,7 @@ Qiang Wang received his B.E. degree from South China University of Technology in
 
 ## News
 + The paper "FADNet: A Fast and Accurate Network for Disparity Estimation" has been accepted by ICRA 2020.
++ The paper "GPGPU Performance Estimation with Core and Memory Frequency Scaling" has been accepted by IEEE TPDS.
 
 ## Biography
 + 2015-2020, Ph.D. student, Hong Kong Baptist University, supervised by [Prof. X.-W Chu](https://www.comp.hkbu.edu.hk/~chxw/)
