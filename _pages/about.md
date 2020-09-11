@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Qiang Wang is currently a Research Assistant Professor at Department of Computer Science, Hong Kong Baptist University. Before that, he received his B.E. degree from South China University of Technology in 2014, and his Ph.D. degree at Department of Computer Science, Hong Kong Baptist University, under supervision of [Prof. X.-W Chu](https://www.comp.hkbu.edu.hk/~chxw/). His research interests include General Purpose GPU Computing, Deep Learning, and 3D Vision. He is a recipient of Hong Kong PhD Fellowship.
+Qiang Wang is currently a Research Assistant Professor at Department of Computer Science, Hong Kong Baptist University. Before that, he received his B.E. degree from South China University of Technology in 2014, and his Ph.D. degree at Department of Computer Science, Hong Kong Baptist University, under supervision of [Prof. X.-W Chu](https://www.comp.hkbu.edu.hk/~chxw/), in 2020. His research interests include General Purpose GPU Computing, Deep Learning, and 3D Vision. He is a recipient of Hong Kong PhD Fellowship.
 
 ## News
 + \[September 2020\] I started my academic position as a Research Assistant Professor at Department of Computer Science, Hong Kong Baptist University.
