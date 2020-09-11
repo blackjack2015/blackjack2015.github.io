@@ -12,9 +12,9 @@ redirect_from:
 Qiang Wang is currently a Research Assistant Professor at Department of Computer Science, Hong Kong Baptist University. Before that, he received his B.E. degree from South China University of Technology in 2014, and his Ph.D. degree at Department of Computer Science, Hong Kong Baptist University, under supervision of [Prof. X.-W Chu](https://www.comp.hkbu.edu.hk/~chxw/). His research interests include General Purpose GPU Computing, Deep Learning, and 3D Vision. He is a recipient of Hong Kong PhD Fellowship.
 
 ## News
-+ I started my academic position as a Research Assistant Professor at Department of Computer Science, Hong Kong Baptist University.
-+ The paper "GPGPU Performance Estimation with Core and Memory Frequency Scaling" has been accepted by IEEE TPDS.
-+ The paper "FADNet: A Fast and Accurate Network for Disparity Estimation" has been accepted by ICRA 2020.
++ 2020.09 I started my academic position as a Research Assistant Professor at Department of Computer Science, Hong Kong Baptist University.
++ 2020.06 The paper "GPGPU Performance Estimation with Core and Memory Frequency Scaling" has been accepted by IEEE TPDS.
++ 2020.01 The paper "FADNet: A Fast and Accurate Network for Disparity Estimation" has been accepted by ICRA 2020.
 
 ## Biography
 + 2020-present, Research Assistant Professor, Hong Kong Baptist University
