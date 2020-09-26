@@ -22,9 +22,9 @@ author_profile: true
 + **Q. Wang**, S. Zheng, Q. Yan, F. Deng, K. Zhao, and X.-W Chu, "IRS: A Large Synthetic Indoor Robotics Stereo Dataset for Disparity and Surface Normal Estimation", arXiv preprint arXiv:1912.09678.
 
 ## GPU Computing
-+ Y. Wang, **Q. Wang**, S. Shi, X. He, Z. Tang, K. Zhao, and X.-W Chu. "Benchmarking the Performance and Power of AI Accelerators for AI Training." ,3rd High Performance Machine Learning Workshop (HPML 2020).
++ **Q. Wang** and X.-W, Chu, "GPGPU Performance Estimation with Core and Memory Frequency Scaling," IEEE Transactions on Parallel and Distributed Systems, Vol. 31, No. 12, pages 2865-2881, Dec 2020.
++ Y. Wang, **Q. Wang**, S. Shi, X. He, Z. Tang, K. Zhao, and X.-W Chu. "Benchmarking the Performance and Power of AI Accelerators for AI Training.", 3rd High Performance Machine Learning Workshop (HPML 2020), co-located with IEEE CCGrid 2020, Melbourne, Australia, 2020.
 + **Q. Wang**, C. Liu, and X.-W Chu, "GPGPU Performance Estimation for Frequency Scaling Using Cross-Benchmarking" Proceedings of the 13th Workshop on General Purpose Processing Using GPUs. 2020.
-+ **Q. Wang** and X.-W, Chu, "GPGPU Performance Estimation with Core and Memory Frequency Scaling," IEEE Transactions on Parallel and Distributed Systems. (major revision)
 + C. Liu, **Q. Wang** and X.-W, Chu, "ESetStore: an Erasure-coded Storage System with Fast Data Recovery," IEEE Transactions on Parallel and Distributed Systems. 2020. 
 + Z. Tang, Y. Wang, **Q. Wang**, and X.-W. Chu, "The Impact of GPU DVFS on the Energy and Performance of Deep Learning: an Empirical Study," ACM e-Energy 2019, Phoenix, AZ, USA, June 2019. (notes paper)
 + **Q. Wang** and X.-W. Chu, "GPGPU Performance Estimation with Core and Memory Frequency Scaling," IEEE International Conference on Parallel and Distributed Systems (ICPADS) 2018, Singapore, Dec 2018. [A poster of this work has been presented at The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC18), Dallas, USA, Nov 2018.]
