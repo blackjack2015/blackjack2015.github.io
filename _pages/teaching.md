@@ -13,10 +13,10 @@ author_profile: true
 {% endfor %}
 -->
 
-+ Hong Kong Baptist University, Instructor
++ Hong Kong Baptist University, Instructor 
   + 2020/21, COMP 7180, Quantitative Methods for Data Analytics & Artificial Intelligence 
 
-+ Hong Kong Baptist University, Excellent Teaching Assistant Performance Awards
++ Hong Kong Baptist University, Excellent Teaching Assistant Performance Awards \[[link](https://www.comp.hkbu.edu.hk/v1/?pid=48)\]
   + 2019/20, COMP 3046, Advanced Programming for Software Development
   + 2018/19, COMP 3046, Advanced Programming for Software Development 
   + 2017/18, COMP 3005, Design and Analysis of Algorithms
