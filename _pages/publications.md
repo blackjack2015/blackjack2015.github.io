@@ -22,6 +22,7 @@ author_profile: true
 + **Q. Wang**, S. Zheng, Q. Yan, F. Deng, K. Zhao, and X.-W Chu, "IRS: A Large Synthetic Indoor Robotics Stereo Dataset for Disparity and Surface Normal Estimation", arXiv preprint arXiv:1912.09678.
 
 ## GPU Computing
++ S. Shi, **Q. Wang**, and X.-W. Chu, "Efficient Sparse-Dense Matrix-Matrix Multiplication on GPUs Using the Customized Sparse Storage Format," IEEE ICPADS 2020, Hong Kong, China, Dec 2020.
 + **Q. Wang** and X.-W, Chu, "GPGPU Performance Estimation with Core and Memory Frequency Scaling," IEEE Transactions on Parallel and Distributed Systems, Vol. 31, No. 12, pages 2865-2881, Dec 2020.
 + Y. Wang, **Q. Wang**, S. Shi, X. He, Z. Tang, K. Zhao, and X.-W Chu. "Benchmarking the Performance and Power of AI Accelerators for AI Training.", 3rd High Performance Machine Learning Workshop (HPML 2020), co-located with IEEE CCGrid 2020, Melbourne, Australia, 2020.
 + **Q. Wang**, C. Liu, and X.-W Chu, "GPGPU Performance Estimation for Frequency Scaling Using Cross-Benchmarking" Proceedings of the 13th Workshop on General Purpose Processing Using GPUs. 2020.
@@ -33,7 +34,8 @@ author_profile: true
 + **Q. Wang**, P. Xu, Y. Zhang, and X.-W. Chu, "EPPMiner: An Extended Benchmark Suite for Energy, Power and Performance Characterization of Heterogeneous Architecture," ACM e-Energy 2017, Hong Kong, May 2017.
 + X. Mei, **Q. Wang**, and X.-W. Chu, "A Survey and Measurement Study of GPU DVFS on Energy Conservation," Digital Communications and Networks, 2017.
 
-## Distributed Deep Learning
+## Deep Learning Systems
++ Y. Wang, **Q. Wang**, and X.-W. Chu, "Energy-efficient Inference Service of Transformer-based Deep Learning Models on GPUs," IEEE GreenCom 2020, Greece, 2020. (Best Paper Award)
 + S. Shi, Z. Tang, **Q. Wang**, K. Zhao, and X.-W. Chu, "Layer-wise Adaptive Gradient Sparsification for Distributed Deep Learning with Convergence Guarantees," The 24th European Conference on Artificial Intelligence (ECAI), Santiago de Compostela, Spain, June 2020.
 + **Q. Wang**, S. Shi, C. Wang, X-W. Chu, "Communication Contention Aware Scheduling of Multiple Deep Learning Training Jobs", arXiv preprint arXiv:2002.10105.
 + S. Shi, **Q. Wang**, X-W. Chu, B. Li, Y. Qin, R. Liu, and X. Zhao, "Communication-Efficient Distributed Deep Learning with Merged Gradient Sparsification on GPUs," IEEE INFOCOM 2020, Beijing, China, May 2020.
