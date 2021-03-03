@@ -30,7 +30,7 @@ Qiang Wang is currently a Research Assistant Professor at Department of Computer
 ## Awards
 + 2020, RPg Performance Award Scheme, Hong Kong Baptist University \[[link](https://www.comp.hkbu.edu.hk/v1/?pid=48)\]
 + 2016-2019, Excellent Teaching Assistant Performance Award \[[link](https://www.comp.hkbu.edu.hk/v1/?pid=48)\]
-+ 2015, Hong Kong PhD Fellowship \[[link](https://cerg1.ugc.edu.hk/hkpfs/index.html)\]
++ 2015, Hong Kong PhD Fellowship \[[link](https://cerg1.ugc.edu.hk/hkpfs/index.html)\] \[[link](https://www.comp.hkbu.edu.hk/v1/?pid=48)\]
 + 2013, American Mathematical Contest in Modeling, Honorable Prize
 + 2011, National Scholarship
 
