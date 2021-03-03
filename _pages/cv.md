@@ -10,21 +10,23 @@ redirect_from:
 {% include base_path %}
 
 ## Education
+* Ph.D, in Department of Computer Science, Hong Kong Baptist University, Hong Kong, 2020
 * B.S. in South China University of Technology, China, 2014
-* Ph.D, in Department of Computer Science, Hong Kong Baptist University, Hong Kong, 2020 (expected)
 
 ## Work experience
+* 2020.09-present: Research Assistant Professor
+
+* 2019.12-2020.08: Research Assistant
+  * Hong Kong Baptist University
+  * Project(s):
+    * Benchmarking GPGPU Energy Efficiency
+  * Supervisor: Prof. Xiaowen Chu
+
 * 2014.11-2015.08: Research Assistant
   * Hong Kong Baptist University
   * Project(s):
     * Distributed Implementation of Deep Convolution Neural Network for Image Classification
     * Image Retrieval with Deep Restricted Boltzmann Machine
-  * Supervisor: Prof. Xiaowen Chu
-
-* 2019.12-2020.05: Research Assistant
-  * Hong Kong Baptist University
-  * Project(s):
-    * Benchmarking GPGPU Energy Efficiency
   * Supervisor: Prof. Xiaowen Chu
   
 ## Skills
