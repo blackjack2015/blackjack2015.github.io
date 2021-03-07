@@ -23,7 +23,6 @@ author_profile: true
 ", Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2021.
 + Y. Wang, **Q. Wang**, and X.-W. Chu, "Energy-efficient Inference Service of Transformer-based Deep Learning Models on GPUs," IEEE GreenCom 2020, Greece, 2020. (Best Paper Award)
 + **Q. Wang**<sup>&dagger;</sup>, S. Shi<sup>&dagger;</sup>, S. Zheng, K. Zhao, and X.-W Chu, "FADNet: A Fast and Accurate Network for Disparity Estimation". 2020 International Conference on Robotics and Automation (ICRA). IEEE, 2020.
-+ **Q. Wang**, S. Zheng, Q. Yan, F. Deng, K. Zhao, and X.-W Chu, "IRS: A Large Synthetic Indoor Robotics Stereo Dataset for Disparity and Surface Normal Estimation", arXiv preprint arXiv:1912.09678.
 + S. Shi, Z. Tang, **Q. Wang**, K. Zhao, and X.-W. Chu, "Layer-wise Adaptive Gradient Sparsification for Distributed Deep Learning with Convergence Guarantees," The 24th European Conference on Artificial Intelligence (ECAI), Santiago de Compostela, Spain, June 2020.
 + **Q. Wang**, S. Shi, C. Wang, X-W. Chu, "Communication Contention Aware Scheduling of Multiple Deep Learning Training Jobs", arXiv preprint arXiv:2002.10105.
 + S. Shi, **Q. Wang**, X-W. Chu, B. Li, Y. Qin, R. Liu, and X. Zhao, "Communication-Efficient Distributed Deep Learning with Merged Gradient Sparsification on GPUs," IEEE INFOCOM 2020, Beijing, China, May 2020.
