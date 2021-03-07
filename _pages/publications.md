@@ -46,4 +46,4 @@ author_profile: true
 + **Q. Wang**, P. Xu, Y. Zhang, and X.-W. Chu, "EPPMiner: An Extended Benchmark Suite for Energy, Power and Performance Characterization of Heterogeneous Architecture," ACM e-Energy 2017, Hong Kong, May 2017.
 + X. Mei, **Q. Wang**, and X.-W. Chu, "A Survey and Measurement Study of GPU DVFS on Energy Conservation," Digital Communications and Networks, 2017.
 
-###  means equal contribution.
+####  means equal contribution.
