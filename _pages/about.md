@@ -12,6 +12,7 @@ redirect_from:
 Qiang Wang is currently a Research Assistant Professor at Department of Computer Science, Hong Kong Baptist University. Before that, he received his B.E. degree from South China University of Technology in 2014, and his Ph.D. degree at Department of Computer Science, Hong Kong Baptist University, under supervision of [Prof. X.-W Chu](https://www.comp.hkbu.edu.hk/~chxw/), in 2020. His research interests include General Purpose GPU Computing, Deep Learning, and 3D Vision. He is a recipient of Hong Kong PhD Fellowship.
 
 ## News
++ \[March 2021\] The paper “IRS: A Large Naturalistic Indoor Robotics Stereo Dataset to Train Deep Models for Disparity and Surface Normal Estimation” has been accepted by ICME 2021.
 + \[March 2021\] The paper “EDNet: Efficient Disparity Estimation with Cost Volume Combination and Attention-based Spatial Residual” has been accepted by CVPR 2021.
 + \[December 2020\] The paper “Energy-Efficient Inference Service of Transformer-Based Deep Learning Models on GPUs” has received the Best Paper Award of IEEE GreenCom 2020.
 + \[September 2020\] I started my academic position as a Research Assistant Professor at Department of Computer Science, Hong Kong Baptist University.
