@@ -18,11 +18,11 @@ author_profile: true
 -->
 
 ## Machine Learning and Deep Learning
-+ **Q. Wang**<sup>&dagger</sup>, S. Zheng*<sup>\dagger</sup>, Q. Yan*<sup>\dagger</sup>, F. Deng, K. Zhao, and X.-W. Chu, "IRS: A Large Naturalistic Indoor Robotics Stereo Dataset to Train Deep Models for Disparity and Surface Normal Estimation", IEEE International Conference on Multimedia and Expo (ICME) 2021.
++ **Q. Wang**<sup>&dagger;</sup>, S. Zheng<sup>&dagger;</sup>, Q. Yan<sup>&dagger;</sup>, F. Deng, K. Zhao, and X.-W. Chu, "IRS: A Large Naturalistic Indoor Robotics Stereo Dataset to Train Deep Models for Disparity and Surface Normal Estimation", IEEE International Conference on Multimedia and Expo (ICME) 2021.
 + S. Zhang, Z. Wang, **Q. Wang**, J. Zhang, G. Wei, and X.-W Chu, "EDNet: Efficient Disparity Estimation with Cost Volume Combination and Attention-based Spatial Residual
 ", Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2021.
 + Y. Wang, **Q. Wang**, and X.-W. Chu, "Energy-efficient Inference Service of Transformer-based Deep Learning Models on GPUs," IEEE GreenCom 2020, Greece, 2020. (Best Paper Award)
-+ **Q. Wang**, S. Shi, S. Zheng, K. Zhao, and X.-W Chu, "FADNet: A Fast and Accurate Network for Disparity Estimation". 2020 International Conference on Robotics and Automation (ICRA). IEEE, 2020.
++ **Q. Wang**<sup>&dagger;</sup>, S. Shi<sup>&dagger;</sup>, S. Zheng, K. Zhao, and X.-W Chu, "FADNet: A Fast and Accurate Network for Disparity Estimation". 2020 International Conference on Robotics and Automation (ICRA). IEEE, 2020.
 + **Q. Wang**, S. Zheng, Q. Yan, F. Deng, K. Zhao, and X.-W Chu, "IRS: A Large Synthetic Indoor Robotics Stereo Dataset for Disparity and Surface Normal Estimation", arXiv preprint arXiv:1912.09678.
 + S. Shi, Z. Tang, **Q. Wang**, K. Zhao, and X.-W. Chu, "Layer-wise Adaptive Gradient Sparsification for Distributed Deep Learning with Convergence Guarantees," The 24th European Conference on Artificial Intelligence (ECAI), Santiago de Compostela, Spain, June 2020.
 + **Q. Wang**, S. Shi, C. Wang, X-W. Chu, "Communication Contention Aware Scheduling of Multiple Deep Learning Training Jobs", arXiv preprint arXiv:2002.10105.
@@ -46,4 +46,4 @@ author_profile: true
 + **Q. Wang**, P. Xu, Y. Zhang, and X.-W. Chu, "EPPMiner: An Extended Benchmark Suite for Energy, Power and Performance Characterization of Heterogeneous Architecture," ACM e-Energy 2017, Hong Kong, May 2017.
 + X. Mei, **Q. Wang**, and X.-W. Chu, "A Survey and Measurement Study of GPU DVFS on Energy Conservation," Digital Communications and Networks, 2017.
 
-####  means equal contribution.
+#### <sup>&dagger;</sup> means equal contribution.
