@@ -18,7 +18,7 @@ author_profile: true
 -->
 
 ## Machine Learning and Deep Learning
-+ **Q. Wang**<sup>\dagger</sup>, S. Zheng*<sup>\dagger</sup>, Q. Yan*<sup>\dagger</sup>, F. Deng, K. Zhao, and X.-W. Chu, "IRS: A Large Naturalistic Indoor Robotics Stereo Dataset to Train Deep Models for Disparity and Surface Normal Estimation", IEEE International Conference on Multimedia and Expo (ICME) 2021.
++ **Q. Wang**<sup>$\dagger$</sup>, S. Zheng*<sup>\dagger</sup>, Q. Yan*<sup>\dagger</sup>, F. Deng, K. Zhao, and X.-W. Chu, "IRS: A Large Naturalistic Indoor Robotics Stereo Dataset to Train Deep Models for Disparity and Surface Normal Estimation", IEEE International Conference on Multimedia and Expo (ICME) 2021.
 + S. Zhang, Z. Wang, **Q. Wang**, J. Zhang, G. Wei, and X.-W Chu, "EDNet: Efficient Disparity Estimation with Cost Volume Combination and Attention-based Spatial Residual
 ", Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2021.
 + Y. Wang, **Q. Wang**, and X.-W. Chu, "Energy-efficient Inference Service of Transformer-based Deep Learning Models on GPUs," IEEE GreenCom 2020, Greece, 2020. (Best Paper Award)
