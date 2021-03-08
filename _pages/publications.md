@@ -41,7 +41,7 @@ author_profile: true
 + Z. Tang, Y. Wang, **Q. Wang**, and X.-W. Chu, "The Impact of GPU DVFS on the Energy and Performance of Deep Learning: an Empirical Study," ACM e-Energy 2019, Phoenix, AZ, USA, June 2019. (notes paper)
 + **Q. Wang** and X.-W. Chu, "GPGPU Performance Estimation with Core and Memory Frequency Scaling," IEEE International Conference on Parallel and Distributed Systems (ICPADS) 2018, Singapore, Dec 2018. [A poster of this work has been presented at The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC18), Dallas, USA, Nov 2018.]
 + C. Liu, **Q. Wang**, X.-W. Chu, and Y.-W. Leung, "G-CRS: GPU Accelerated Cauchy Reed-Solomon Coding," IEEE Transactions on Parallel and Distributed Systems, Vol. 29, No. 7, pages 1482-1498, July 2018.
-+ **Q. Wang** and X.-W. Chu, "GPGPU Power Estimation with Core and Memory Frequency Scaling," GreenMetrics 2017, in conjunction with ACM Sigmetrics 2017, Urbana-Champaign, IL, USA June 2017.
++ **Q. Wang** and X.-W. Chu, "GPGPU Power Estimation with Core and Memory Frequency Scaling," ACM SIGMETRICS Performance Evaluation Review, October 2017.
 + **Q. Wang**, P. Xu, Y. Zhang, and X.-W. Chu, "EPPMiner: An Extended Benchmark Suite for Energy, Power and Performance Characterization of Heterogeneous Architecture," ACM e-Energy 2017, Hong Kong, May 2017.
 + X. Mei, **Q. Wang**, and X.-W. Chu, "A Survey and Measurement Study of GPU DVFS on Energy Conservation," Digital Communications and Networks, 2017.
 
