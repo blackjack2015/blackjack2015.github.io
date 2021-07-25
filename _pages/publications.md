@@ -24,7 +24,6 @@ author_profile: true
 + Y. Wang, **Q. Wang**, and X.-W. Chu, "Energy-efficient Inference Service of Transformer-based Deep Learning Models on GPUs," IEEE GreenCom 2020, Greece, 2020. <font color='red'>(Best Paper Award)</font>
 + **Q. Wang**<sup>&dagger;</sup>, S. Shi<sup>&dagger;</sup>, S. Zheng, K. Zhao, and X.-W Chu, "FADNet: A Fast and Accurate Network for Disparity Estimation". 2020 International Conference on Robotics and Automation (ICRA). IEEE, 2020.
 + S. Shi, Z. Tang, **Q. Wang**, K. Zhao, and X.-W. Chu, "Layer-wise Adaptive Gradient Sparsification for Distributed Deep Learning with Convergence Guarantees," The 24th European Conference on Artificial Intelligence (ECAI), Santiago de Compostela, Spain, June 2020.
-+ **Q. Wang**, S. Shi, C. Wang, X-W. Chu, "Communication Contention Aware Scheduling of Multiple Deep Learning Training Jobs", arXiv preprint arXiv:2002.10105.
 + S. Shi, **Q. Wang**, X-W. Chu, B. Li, Y. Qin, R. Liu, and X. Zhao, "Communication-Efficient Distributed Deep Learning with Merged Gradient Sparsification on GPUs," IEEE INFOCOM 2020, Beijing, China, May 2020.
 + S. Shi, K. Zhao, **Q. Wang**, Z. Tang, and X.-W. Chu, "A Convergence Analysis of Distributed SGD with Communication-Efficient Gradient Sparsification," IJCAI 2019, Macau, P.R.C., August 2019.
 + S. Shi, **Q. Wang**, K. Zhao, Z. Tang, Y. Wang, X. Huang, and X.-W. Chu, "A Distributed Synchronous SGD Algorithm with Global Top-k Sparsification for Low Bandwidth Networks," IEEE ICDCS 2019, Dallas, Texas, USA, July 2019.
@@ -44,5 +43,8 @@ author_profile: true
 + **Q. Wang** and X.-W. Chu, "GPGPU Power Estimation with Core and Memory Frequency Scaling," ACM SIGMETRICS Performance Evaluation Review, October 2017.
 + **Q. Wang**, P. Xu, Y. Zhang, and X.-W. Chu, "EPPMiner: An Extended Benchmark Suite for Energy, Power and Performance Characterization of Heterogeneous Architecture," ACM e-Energy 2017, Hong Kong, May 2017. <font color='red'>(Best Paper Finalist)</font>
 + X. Mei, **Q. Wang**, and X.-W. Chu, "A Survey and Measurement Study of GPU DVFS on Energy Conservation," Digital Communications and Networks, 2017.
+
+## Machine Learning and Deep Learning
++ **Q. Wang**, S. Shi, C. Wang, X-W. Chu, "Communication Contention Aware Scheduling of Multiple Deep Learning Training Jobs", arXiv preprint arXiv:2002.10105.
 
 #### <sup>&dagger;</sup> means equal contribution.
