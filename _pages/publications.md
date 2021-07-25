@@ -16,6 +16,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 -->
+[Complete List in Google Scholar](https://scholar.google.com/citations?user=6YzjcNgAAAAJ&hl=en)
 
 ## Machine Learning and Deep Learning
 + **Q. Wang**<sup>&dagger;</sup>, S. Zheng<sup>&dagger;</sup>, Q. Yan<sup>&dagger;</sup>, F. Deng, K. Zhao, and X.-W. Chu, "IRS: A Large Naturalistic Indoor Robotics Stereo Dataset to Train Deep Models for Disparity and Surface Normal Estimation", IEEE International Conference on Multimedia and Expo (ICME) 2021. <font color='red'>(Oral:15%)</font>
