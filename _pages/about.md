@@ -48,7 +48,7 @@ Qiang Wang is currently a Research Assistant Professor at Department of Computer
 + Invited Reviewer for Conferences and Journals 
     + IEEE Conference on Robotics and Automation (IEEE ICRA), 2021
     + IEEE Transactions on Network Science and Engineering (TNSE)
-    + IEEE Network
+    + IEEE Network Magazine 
     + IEEE Transactions on Cloud Computing (TCC)
     + IEEE Pervasive Computing (PC)
     + Journal of System Architecture (JSA)
