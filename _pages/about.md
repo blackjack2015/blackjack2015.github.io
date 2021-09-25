@@ -51,4 +51,5 @@ Qiang Wang is currently a Research Assistant Professor at Department of Computer
     + IEEE Network
     + IEEE Transactions on Cloud Computing (TCC)
     + IEEE Pervasive Computing (PC)
+    + Journal of System Architecture (JSA)
     + IEEE Access
