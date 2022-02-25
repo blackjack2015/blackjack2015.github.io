@@ -40,6 +40,8 @@ Qiang Wang is currently a Research Assistant Professor at Department of Computer
 + 2011, National Scholarship
 
 ## Professional Activities
++ Invited TPC Chair for Conferences
+    + IEEE International Conference on Data Science and Information Technology (DSIT), 2022
 + Invited Program Committee Member for Conferences
     + IEEE International Conference on High Performance Computing and Communications (HPCC), 2021
     + IEEE International Conference on High Performance Computing, Data & Analytics (HiPC), 2021
