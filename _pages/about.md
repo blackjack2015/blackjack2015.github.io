@@ -12,6 +12,8 @@ redirect_from:
 Qiang Wang is currently a Research Assistant Professor at Department of Computer Science, Hong Kong Baptist University. Before that, he received his B.E. degree from South China University of Technology in 2014, and his Ph.D. degree at Department of Computer Science, Hong Kong Baptist University, under supervision of [Prof. X.-W Chu](https://www.comp.hkbu.edu.hk/~chxw/), in 2020. His research interests include General Purpose GPU Computing, Distributed Computing, and Deep Learning Systems. He is a recipient of Hong Kong PhD Fellowship.
 
 ## News
++ \[May 2022\] The paper “Energy-aware Non-preemptive Task Scheduling with Deadline Constraint in DVFS-enabled Heterogeneous Clusters” has been accepted by IEEE TPDS. 
++ \[April 2022\] The paper “Energy-efficient Online Scheduling of Transformer Inference Services on GPU Servers” has been accepted by IEEE Transactions on Green Communications and Networking (TGCN). 
 + \[March 2021\] The paper “IRS: A Large Naturalistic Indoor Robotics Stereo Dataset to Train Deep Models for Disparity and Surface Normal Estimation” has been accepted by ICME 2021.
 + \[March 2021\] The paper “EDNet: Efficient Disparity Estimation with Cost Volume Combination and Attention-based Spatial Residual” has been accepted by CVPR 2021.
 + \[December 2020\] The paper “Energy-Efficient Inference Service of Transformer-Based Deep Learning Models on GPUs” has received the Best Paper Award of IEEE GreenCom 2020.
@@ -43,12 +45,16 @@ Qiang Wang is currently a Research Assistant Professor at Department of Computer
 + Invited TPC Chair for Conferences
     + IEEE International Conference on Data Science and Information Technology (DSIT), 2022
 + Invited Program Committee Member for Conferences
+    + USENIX Annual Technical Conference (ATC) artifact evaluation, 2022
+    + USENIX Symposium on Operating Systems Design and Implementation (OSDI) artifact evaluation, 2022
     + IEEE International Conference on High Performance Computing and Communications (HPCC), 2021
     + IEEE International Conference on High Performance Computing, Data & Analytics (HiPC), 2021~2022
     + IEEE International Conference on Parallel and Distributed Systems (ICPADS), 2021
     + The 5th International Workshop on Embedded and Mobile Deep Learning Workshop, co-located with ACM MobiSys, 2021
     + IEEE Conference on Data Science and Systems (IEEE DSS), 2020~2021
-+ Invited Reviewer for Conferences and Journals 
++ Invited Reviewer for Conferences and Journals
+    + The European Conference on Computer Vision (ECCV), emergency reviewer, 2022
+    + IEEE Transactions on Big Data (TBD)
     + IEEE Conference on Robotics and Automation (IEEE ICRA), 2021
     + IEEE Transactions on Network Science and Engineering (TNSE)
     + IEEE Network Magazine 
