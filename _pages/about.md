@@ -53,7 +53,6 @@ Qiang Wang is currently a Research Assistant Professor at Department of Computer
     + The 5th International Workshop on Embedded and Mobile Deep Learning Workshop, co-located with ACM MobiSys, 2021
     + IEEE Conference on Data Science and Systems (IEEE DSS), 2020~2021
 + Invited Reviewer for Conferences and Journals
-    + The European Conference on Computer Vision (ECCV), emergency reviewer, 2022
     + IEEE Transactions on Big Data (TBD)
     + IEEE Conference on Robotics and Automation (IEEE ICRA), 2021
     + IEEE Transactions on Network Science and Engineering (TNSE)
