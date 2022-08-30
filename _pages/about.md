@@ -12,6 +12,8 @@ redirect_from:
 Qiang Wang is currently a Assistant Professor at Department of Computer Science and Technology, Harbin Institute of Technology (Shenzhen). Before that, he was a Research Assistant Professor at Department of Computer Science, Hong Kong Baptist University and a Senior Engineer at Tencent (Shenzhen). He received his B.E. degree from South China University of Technology in 2014, and his Ph.D. degree at Department of Computer Science, Hong Kong Baptist University, under supervision of [Prof. X.-W Chu](https://www.comp.hkbu.edu.hk/~chxw/), in 2020. His research interests include General Purpose GPU Computing, Distributed Computing, and Deep Learning Systems. He is a recipient of Hong Kong PhD Fellowship.
 
 ## News
++ \[August 2022\] The paper “SphereDepth: Panorama Depth Estimation from Spherical Domain” has been accepted by 3DV 2022. 
++ \[August 2022\] The paper “Scale-Consistent Fusion: from Heterogeneous Local Sampling to Global Immersive Rendering” has been accepted by TIP. 
 + \[July 2022\] The paper “EASNet:Searching Elastic and Accurate Network Architecture for Stereo Matching” has been accepted by ECCV 2022. 
 + \[May 2022\] The paper “Energy-aware Non-preemptive Task Scheduling with Deadline Constraint in DVFS-enabled Heterogeneous Clusters” has been accepted by IEEE TPDS. 
 + \[April 2022\] The paper “Energy-efficient Online Scheduling of Transformer Inference Services on GPU Servers” has been accepted by IEEE Transactions on Green Communications and Networking (TGCN). 
@@ -45,19 +47,21 @@ Qiang Wang is currently a Assistant Professor at Department of Computer Science 
 + 2011, National Scholarship
 
 ## Professional Activities
-+ Invited TPC Chair for Conferences
-    + IEEE International Conference on Data Science and Information Technology (DSIT), 2022
 + Invited Program Committee Member for Conferences
+    + AAAI Conference on Artificial Intelligence (AAAI), 2023
+    + EuroSys artifact evaluation, 2023
     + USENIX Annual Technical Conference (ATC) artifact evaluation, 2022
     + USENIX Symposium on Operating Systems Design and Implementation (OSDI) artifact evaluation, 2022
-    + IEEE International Conference on High Performance Computing and Communications (HPCC), 2021
+    + IEEE International Conference on Green Computing and Communications (GreenCom), 2022
+    + IEEE International Conference on High Performance Computing and Communications (HPCC), 2021~2022
     + IEEE International Conference on High Performance Computing, Data & Analytics (HiPC), 2021~2022
+    + IEEE International Conference on Data Science and Information Technology (DSIT), 2022
     + IEEE International Conference on Parallel and Distributed Systems (ICPADS), 2021
+    + IEEE Conference on Robotics and Automation (IEEE ICRA), 2021 (Reviewer)
     + The 5th International Workshop on Embedded and Mobile Deep Learning Workshop, co-located with ACM MobiSys, 2021
     + IEEE Conference on Data Science and Systems (IEEE DSS), 2020~2021
-+ Invited Reviewer for Conferences and Journals
++ Invited Reviewer for Journals
     + IEEE Transactions on Big Data (TBD)
-    + IEEE Conference on Robotics and Automation (IEEE ICRA), 2021
     + IEEE Transactions on Network Science and Engineering (TNSE)
     + IEEE Network Magazine 
     + IEEE Transactions on Cloud Computing (TCC)
