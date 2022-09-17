@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Qiang Wang is currently a Assistant Professor at Department of Computer Science and Technology, Harbin Institute of Technology (Shenzhen). Before that, he was a Research Assistant Professor at Department of Computer Science, Hong Kong Baptist University and a Senior Engineer at Tencent (Shenzhen). He received his B.E. degree from South China University of Technology in 2014, and his Ph.D. degree at Department of Computer Science, Hong Kong Baptist University, under supervision of [Prof. X.-W Chu](https://www.comp.hkbu.edu.hk/~chxw/), in 2020. His research interests include General Purpose GPU Computing, Distributed Computing, and Deep Learning Systems. He is a recipient of Hong Kong PhD Fellowship.
+Qiang Wang is currently a Assistant Professor at Department of Computer Science and Technology, Harbin Institute of Technology, Shenzhen. Before that, he was a Research Assistant Professor at Department of Computer Science, Hong Kong Baptist University and a Senior Engineer at Tencent (Shenzhen). He received his B.E. degree from South China University of Technology in 2014, and his Ph.D. degree at Department of Computer Science, Hong Kong Baptist University, under supervision of [Prof. X.-W Chu](https://www.comp.hkbu.edu.hk/~chxw/), in 2020. His research interests include General Purpose GPU Computing, Distributed Computing, and Deep Learning Systems. He is a recipient of Hong Kong PhD Fellowship.
 
 ## News
 + \[August 2022\] The paper “SphereDepth: Panorama Depth Estimation from Spherical Domain” has been accepted by 3DV 2022. 
@@ -62,6 +62,7 @@ Qiang Wang is currently a Assistant Professor at Department of Computer Science 
     + The 5th International Workshop on Embedded and Mobile Deep Learning Workshop, co-located with ACM MobiSys, 2021
     + IEEE Conference on Data Science and Systems (IEEE DSS), 2020~2021
 + Invited Reviewer for Journals
+    + ACM Computing Surveys (CSUR)
     + IEEE Transactions on Big Data (TBD)
     + IEEE Transactions on Network Science and Engineering (TNSE)
     + IEEE Network Magazine 
