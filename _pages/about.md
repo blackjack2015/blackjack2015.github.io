@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Qiang Wang is currently a Assistant Professor at Department of Computer Science and Technology, Harbin Institute of Technology, Shenzhen. Before that, he was a Research Assistant Professor at Department of Computer Science, Hong Kong Baptist University and a Senior Engineer at Tencent (Shenzhen). He received his B.E. degree from South China University of Technology in 2014, and his Ph.D. degree at Department of Computer Science, Hong Kong Baptist University, under supervision of [Prof. X.-W Chu](https://www.comp.hkbu.edu.hk/~chxw/), in 2020. His research interests include General Purpose GPU Computing, Distributed Computing, and Deep Learning Systems. He is a recipient of Hong Kong PhD Fellowship.
+Qiang Wang is currently a Assistant Professor at Department of Computer Science and Technology, Harbin Institute of Technology, Shenzhen. Before that, he was a Research Assistant Professor at Department of Computer Science, Hong Kong Baptist University and a Senior Engineer at Tencent (Shenzhen). He received his B.E. degree from South China University of Technology in 2014, and his Ph.D. degree at Department of Computer Science, Hong Kong Baptist University, under supervision of [Prof. X.-W Chu](https://sites.google.com/view/chuxiaowen), in 2020. His research interests include General Purpose GPU Computing, Distributed Computing, and Deep Learning Systems. He is a recipient of Hong Kong PhD Fellowship.
 
 ## News
 + \[November 2022\] The paper “Rethinking Disparity: A depth range free Multi-View Stereo based on Disparity” has been accepted by AAAI 2023. 
