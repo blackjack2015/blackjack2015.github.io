@@ -33,7 +33,6 @@ Qiang Wang is currently a Assistant Professor at Department of Computer Science 
 + 2010-2014, B.E., Computer Science and Technology, South China University of Technology, China
 
 ## Work Experience
-+ 2020.09-present, Research Assistant Professor, Hong Kong Baptist University
 + 2020.06-2020.08, Research Intern, Alibaba Ant Financial Services (蚂蚁金服)
 + 2019.08-2020.05, Research Intern, Nvidia Corporation
 + 2019-2020, Research Assistant, Hong Kong Baptist University, supervised by [Prof. X.-W Chu](https://www.comp.hkbu.edu.hk/~chxw/)
@@ -66,7 +65,7 @@ Qiang Wang is currently a Assistant Professor at Department of Computer Science 
     + ACM Computing Surveys (CSUR)
     + IEEE Transactions on Big Data (TBD)
     + IEEE Transactions on Network Science and Engineering (TNSE)
-    + IEEE Network Magazine 
+    + IEEE Network 
     + IEEE Transactions on Cloud Computing (TCC)
     + IEEE Pervasive Computing (PC)
     + Journal of System Architecture (JSA)
