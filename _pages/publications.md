@@ -17,6 +17,7 @@ author_profile: true
 {% endfor %}
 -->
 [Complete List in Google Scholar](https://scholar.google.com/citations?user=6YzjcNgAAAAJ&hl=en)
+#### <sup>&dagger;</sup> means equal contribution.
 
 ## 2023
 + Q. Yan<sup>&dagger;</sup>, **Q. Wang**<sup>&dagger;</sup>, K. Zhao, B. Li, X. Chu, F. Deng, "Rethinking Disparity: A depth range free Multi-View Stereo based on Disparity", AAAI Conference on Artificial Intelligence (AAAI), 2023.
@@ -59,4 +60,3 @@ author_profile: true
 ## Preprint
 + **Q. Wang**, S. Shi, C. Wang, X-W. Chu, "Communication Contention Aware Scheduling of Multiple Deep Learning Training Jobs", arXiv preprint arXiv:2002.10105.
 
-#### <sup>&dagger;</sup> means equal contribution.
