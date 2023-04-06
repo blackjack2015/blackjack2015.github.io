@@ -30,12 +30,12 @@ author_profile: true
 + Y. Wang, **Q. Wang** and X.-W. Chu, "Energy-efficient Online Scheduling of Transformer Inference Services on GPU Servers," IEEE Transactions on Green Communications and Networking (TGCN), 2022.
 
 ## 2021
-+ **Q. Wang**<sup>&dagger;</sup>, S. Zheng<sup>&dagger;</sup>, Q. Yan<sup>&dagger;</sup>, F. Deng, K. Zhao, and X.-W. Chu, "IRS: A Large Naturalistic Indoor Robotics Stereo Dataset to Train Deep Models for Disparity and Surface Normal Estimation", IEEE International Conference on Multimedia and Expo (ICME) 2021. <font color='red'>(Oral:15%)</font>
++ **Q. Wang**, S. Zheng, Q. Yan, F. Deng, K. Zhao, and X.-W. Chu, "IRS: A Large Naturalistic Indoor Robotics Stereo Dataset to Train Deep Models for Disparity and Surface Normal Estimation", IEEE International Conference on Multimedia and Expo (ICME) 2021. <font color='red'>(Oral:15%)</font>
 + S. Zhang, Z. Wang, **Q. Wang**, J. Zhang, G. Wei, and X.-W Chu, "EDNet: Efficient Disparity Estimation with Cost Volume Combination and Attention-based Spatial Residual", Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2021.
 
 ## 2020
 + Y. Wang, **Q. Wang**, and X.-W. Chu, "Energy-efficient Inference Service of Transformer-based Deep Learning Models on GPUs," IEEE GreenCom 2020, Greece, 2020. <font color='red'>(Best Paper Award)</font>
-+ **Q. Wang**<sup>&dagger;</sup>, S. Shi<sup>&dagger;</sup>, S. Zheng, K. Zhao, and X.-W Chu, "FADNet: A Fast and Accurate Network for Disparity Estimation". 2020 International Conference on Robotics and Automation (ICRA). IEEE, 2020.
++ **Q. Wang**, S. Shi, S. Zheng, K. Zhao, and X.-W Chu, "FADNet: A Fast and Accurate Network for Disparity Estimation". 2020 International Conference on Robotics and Automation (ICRA). IEEE, 2020.
 + S. Shi, Z. Tang, **Q. Wang**, K. Zhao, and X.-W. Chu, "Layer-wise Adaptive Gradient Sparsification for Distributed Deep Learning with Convergence Guarantees," The 24th European Conference on Artificial Intelligence (ECAI), Santiago de Compostela, Spain, June 2020.
 + S. Shi, **Q. Wang**, X-W. Chu, B. Li, Y. Qin, R. Liu, and X. Zhao, "Communication-Efficient Distributed Deep Learning with Merged Gradient Sparsification on GPUs," IEEE INFOCOM 2020, Beijing, China, May 2020.
 + S. Shi, **Q. Wang**, and X.-W. Chu, "Efficient Sparse-Dense Matrix-Matrix Multiplication on GPUs Using the Customized Sparse Storage Format," IEEE ICPADS 2020, Hong Kong, China, Dec 2020.
