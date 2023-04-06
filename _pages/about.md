@@ -62,6 +62,8 @@ Qiang Wang is currently an Assistant Professor at Department of Computer Science
     + The 5th International Workshop on Embedded and Mobile Deep Learning Workshop, co-located with ACM MobiSys, 2021
     + IEEE Conference on Data Science and Systems (IEEE DSS), 2020~2021
 + Invited Reviewer for Journals
+    + ACM Transactions on Design Automation of Electronic Systems (TODAES)
+    + IEEE Transactions on Parallel and Distributed Systems (TPDS)
     + ACM Computing Surveys (CSUR)
     + IEEE Transactions on Big Data (TBD)
     + IEEE Transactions on Network Science and Engineering (TNSE)
