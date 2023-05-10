@@ -48,6 +48,7 @@ Qiang Wang is currently an Assistant Professor at Department of Computer Science
 
 ## Professional Activities
 + Invited Program Committee Member for Conferences
+    + International Conference on Big Data Computing and Communications (BigCom), 2023
     + AAAI Conference on Artificial Intelligence (AAAI), 2023
     + IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2023
     + EuroSys artifact evaluation, 2023
@@ -59,7 +60,6 @@ Qiang Wang is currently an Assistant Professor at Department of Computer Science
     + IEEE International Conference on Data Science and Information Technology (DSIT), 2022
     + IEEE International Conference on Parallel and Distributed Systems (ICPADS), 2021
     + IEEE Conference on Robotics and Automation (IEEE ICRA), 2021
-    + The 5th International Workshop on Embedded and Mobile Deep Learning Workshop, co-located with ACM MobiSys, 2021
     + IEEE Conference on Data Science and Systems (IEEE DSS), 2020~2021
 + Invited Reviewer for Journals
     + ACM Transactions on Design Automation of Electronic Systems (TODAES)
