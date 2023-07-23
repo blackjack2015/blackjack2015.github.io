@@ -51,16 +51,11 @@ Qiang Wang is currently an Assistant Professor at Department of Computer Science
     + International Conference on Big Data Computing and Communications (BigCom), 2023
     + AAAI Conference on Artificial Intelligence (AAAI), 2023~2024
     + IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2023~2024
-    + EuroSys artifact evaluation, 2023
-    + USENIX Annual Technical Conference (ATC) artifact evaluation, 2022
-    + USENIX Symposium on Operating Systems Design and Implementation (OSDI) artifact evaluation, 2022
     + IEEE International Conference on Green Computing and Communications (GreenCom), 2022
     + IEEE International Conference on High Performance Computing and Communications (HPCC), 2021~2022
-    + IEEE International Conference on High Performance Computing, Data & Analytics (HiPC), 2021~2022
-    + IEEE International Conference on Data Science and Information Technology (DSIT), 2022
+    + IEEE International Conference on High Performance Computing, Data & Analytics (HiPC), 2021~2023
     + IEEE International Conference on Parallel and Distributed Systems (ICPADS), 2021
     + IEEE Conference on Robotics and Automation (IEEE ICRA), 2021
-    + IEEE Conference on Data Science and Systems (IEEE DSS), 2020~2021
 + Invited Reviewer for Journals
     + ACM Transactions on Design Automation of Electronic Systems (TODAES)
     + IEEE Transactions on Parallel and Distributed Systems (TPDS)
