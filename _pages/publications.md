@@ -19,6 +19,9 @@ author_profile: true
 [Complete List in Google Scholar](https://scholar.google.com/citations?user=6YzjcNgAAAAJ&hl=en)
 #### <sup>&dagger;</sup> means equal contribution.
 
+## 2024
++ Y. Zhang, **Q. Wang**, Z. Lin, P. Xu, B. Wang, "Improving GPU Energy Efficiency through an Application-transparent Frequency Scaling Policy with Performance Assurance", The European Conference on Computer Systems (EuroSys), 2024. 
+
 ## 2023
 + Q. Yan<sup>&dagger;</sup>, **Q. Wang**<sup>&dagger;</sup>, K. Zhao, B. Li, X. Chu, F. Deng, "Rethinking Disparity: A depth range free Multi-View Stereo based on Disparity", AAAI Conference on Artificial Intelligence (AAAI), 2023.
 
