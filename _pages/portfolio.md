@@ -14,4 +14,6 @@ author_profile: true
 {% endfor %}
 -->
 
-# Project 1
+## FADNet
+### Paper Link: [https://ieeexplore.ieee.org/document/9197031](https://ieeexplore.ieee.org/document/9197031)
+### Code Link: [https://github.com/HKBU-HPML/FADNet](https://github.com/HKBU-HPML/FADNet)
