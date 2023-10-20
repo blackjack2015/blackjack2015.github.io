@@ -17,7 +17,7 @@ author_profile: true
 {% endfor %}
 -->
 [Complete List in Google Scholar](https://scholar.google.com/citations?user=6YzjcNgAAAAJ&hl=en)
-#### <sup>&dagger;</sup> means equal contribution.
+#### <sup>&dagger;</sup> means equal contribution. \* means corresponding authors.
 
 ## 2024
 + Y. Zhang, **Q. Wang**, Z. Lin, P. Xu, B. Wang, "Improving GPU Energy Efficiency through an Application-transparent Frequency Scaling Policy with Performance Assurance", The European Conference on Computer Systems (EuroSys), 2024. 
