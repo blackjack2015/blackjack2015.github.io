@@ -20,6 +20,7 @@ author_profile: true
 #### <sup>&dagger;</sup> means equal contribution. \* means corresponding authors.
 
 ## Conference
++ Q. Yan, **Q. Wang\***, K. Zhao, J. Chen, B. Li, X.-W. Chu, F. Deng, "CF-NeRF: Camera Parameter Free Neural Radiance Fields with Incremental Learning", AAAI Conference on Artificial Intelligence (AAAI), 2024.
 + Y. Zhang, **Q. Wang\***, Z. Lin, P. Xu, B. Wang, "Improving GPU Energy Efficiency through an Application-transparent Frequency Scaling Policy with Performance Assurance", The European Conference on Computer Systems (EuroSys), 2024. 
 + Z. Tang, Y. Wang, X. He, L. Zhang, X. Pan, **Q. Wang**, R. Zeng, S. Shi, B. He, and X.-W. Chu, "FusionAI: Decentralized Training and Deploying LLMs with Massive Consumer-Level GPUs," Symposium on Large Language Models (LLM 2023) with IJCAI 2023, Macao, China, August 21, 2023.
 + R. Zhang, J. Chen, **Q. Wang**, "Explicify Neural Implicit Fields for Efficient Dynamic Human Avatar Modeling via a Neural Explicit Surface", ACM International Conference on Multimedia (ACMMM), 2023.
