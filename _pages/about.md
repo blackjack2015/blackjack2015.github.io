@@ -12,6 +12,7 @@ redirect_from:
 Qiang Wang is currently an Assistant Professor at Department of Computer Science and Technology, Harbin Institute of Technology, Shenzhen. Before that, he was a Research Assistant Professor at Department of Computer Science, Hong Kong Baptist University and a Senior Engineer at Tencent (Shenzhen). He received his B.E. degree from South China University of Technology in 2014, and his Ph.D. degree at Department of Computer Science, Hong Kong Baptist University, under supervision of [Prof. X.-W Chu](https://sites.google.com/view/chuxiaowen), in 2020. His research interests include General Purpose GPU Computing, Distributed Computing, and Deep Learning Systems. He is a recipient of Hong Kong PhD Fellowship.
 
 ## News
++ \[Dec 2023\] The paper "CF-NeRF: Camera Parameter Free Neural Radiance Fields with Incremental Learning" has been accepted by AAAI 2024.
 + \[Sept 2023\] The paper "Improving GPU Energy Efficiency through an Application-transparent Frequency Scaling Policy with Performance Assurance" has been accepted by EuroSys 2024.
 + \[July 2023\] The paper "Explicify Neural Implicit Fields for Efficient Dynamic Human Avatar Modeling via a Neural Explicit Surface" has been accepted by ACMMM 2023.
 + \[November 2022\] The paper “Rethinking Disparity: A depth range free Multi-View Stereo based on Disparity” has been accepted by AAAI 2023. 
