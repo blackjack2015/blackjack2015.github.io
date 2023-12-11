@@ -51,6 +51,7 @@ Qiang Wang is currently an Assistant Professor at Department of Computer Science
 
 ## Professional Activities
 + Invited Program Committee Member for Conferences
+    + IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024
     + International Conference on Big Data Computing and Communications (BigCom), 2023
     + AAAI Conference on Artificial Intelligence (AAAI), 2023~2024
     + IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2023~2024
