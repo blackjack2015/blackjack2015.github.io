@@ -20,6 +20,7 @@ author_profile: true
 #### <sup>&dagger;</sup> means equal contribution. \* means corresponding authors.
 
 ## Conference
++ S. Shi, X. Pan, **Q. Wang**, C. Liu, X. Ren, Z. Hu, Y. Yang, B. Li, and X.-W. Chu, "ScheMoE: An Extensible Mixture-of-Experts Distributed Training System with Tasks Scheduling", EuroSys 2024, Athens, Greece, April 22-25, 2024.
 + W. Luo, R. Fan, Z. Li, D. Du, **Q. Wang\***, X.-W. Chu, "Benchmarking and Dissecting the Nvidia Hopper GPU Architecture", IEEE International Parallel and Distributed Processing Symposium (IPDPS), 2024.
 + Q. Yan, **Q. Wang\***, K. Zhao, J. Chen, B. Li, X.-W. Chu, F. Deng, "CF-NeRF: Camera Parameter Free Neural Radiance Fields with Incremental Learning", AAAI Conference on Artificial Intelligence (AAAI), 2024.
 + Y. Zhang, **Q. Wang\***, Z. Lin, P. Xu, B. Wang, "Improving GPU Energy Efficiency through an Application-transparent Frequency Scaling Policy with Performance Assurance", The European Conference on Computer Systems (EuroSys), 2024. 
