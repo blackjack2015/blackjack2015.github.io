@@ -63,7 +63,6 @@ Qiang Wang is currently an Assistant Professor at Department of Computer Science
     + IEEE International Conference on Parallel and Distributed Systems (ICPADS), 2021
     + IEEE Conference on Robotics and Automation (IEEE ICRA), 2021
 + Invited Reviewer for Journals
-    + Journal of Parallel and Distributed Computing (JPDC)
     + IEEE Robotics and Automation Letters (RA-L)
     + ACM Transactions on Design Automation of Electronic Systems (TODAES)
     + IEEE Transactions on Parallel and Distributed Systems (TPDS)
