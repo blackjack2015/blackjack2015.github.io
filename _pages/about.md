@@ -12,6 +12,7 @@ redirect_from:
 Qiang Wang is currently an Assistant Professor at Department of Computer Science and Technology, Harbin Institute of Technology, Shenzhen. Before that, he was a Research Assistant Professor at Department of Computer Science, Hong Kong Baptist University and a Senior Engineer at Tencent (Shenzhen). He received his B.E. degree from South China University of Technology in 2014, and his Ph.D. degree at Department of Computer Science, Hong Kong Baptist University, under supervision of [Prof. X.-W Chu](https://sites.google.com/view/chuxiaowen), in 2020. His research interests include General Purpose GPU Computing, Distributed Computing, and High Performance Machine Learning. 
 
 ## News
++ \[April 2024\] The papers "Scheduling Deep Learning Jobs in Multi-Tenant GPU Clusters via Wise Resource Sharing" and "DSO: A GPU Energy Efficiency Optimizer by Fusing Dynamic and Static Information" have been accepted by IWQoS 2024.
 + \[Jan 2024\] The paper "ScheMoE: An Extensible Mixture-of-Experts Distributed Training System with Tasks Scheduling" has been accepted by EuroSys 2024.
 + \[Dec 2023\] The paper "Benchmarking and Dissecting the Nvidia Hopper GPU Architecture" has been accepted by IPDPS 2024.
 + \[Dec 2023\] The paper "CF-NeRF: Camera Parameter Free Neural Radiance Fields with Incremental Learning" has been accepted by AAAI 2024.
