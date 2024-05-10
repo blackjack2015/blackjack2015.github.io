@@ -54,16 +54,11 @@ Qiang Wang is currently an Assistant Professor at Department of Computer Science
 + 2011, National Scholarship
 
 ## Professional Activities
-+ Invited Program Committee Member for Conferences
-    + IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024
-    + International Conference on Big Data Computing and Communications (BigCom), 2023
-    + AAAI Conference on Artificial Intelligence (AAAI), 2023~2024
-    + IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2023~2024
-    + IEEE International Conference on Green Computing and Communications (GreenCom), 2022
-    + IEEE International Conference on High Performance Computing and Communications (HPCC), 2021~2022
-    + IEEE International Conference on High Performance Computing, Data & Analytics (HiPC), 2021~2023
-    + IEEE International Conference on Parallel and Distributed Systems (ICPADS), 2021
-    + IEEE Conference on Robotics and Automation (IEEE ICRA), 2021
++ Invited Program Committee Member/Reviewer for Conferences
+    + 2024: ECCV(3), CVPR(2), BigCom(3), AAAI(2)
+    + 2023: AAAI(3), WACV(1), HiPC
+    + 2022: GreenCom, HPCC, HiPC
+    + 2021: HPCC, HiPC, ICPADS, ICRA(1)
 + Invited Reviewer for Journals
     + IEEE Robotics and Automation Letters (RA-L)
     + ACM Transactions on Design Automation of Electronic Systems (TODAES)
