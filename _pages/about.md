@@ -55,8 +55,8 @@ Qiang Wang is currently an Assistant Professor at Department of Computer Science
 
 ## Professional Activities
 + Invited Program Committee Member/Reviewer for Conferences
-    + 2024: ECCV(3), CVPR(2), BigCom(3), AAAI(2)
-    + 2023: AAAI(3), WACV(1), HiPC
+    + 2024: ECCV(3), CVPR(2), AAAI(2)
+    + 2023: AAAI(3), WACV(1), HiPC, BigCom(5)
     + 2022: GreenCom, HPCC, HiPC(3)
     + 2021: HPCC(6), HiPC(4), ICPADS(2), ICRA(1)
 + Invited Reviewer for Journals
