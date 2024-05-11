@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Qiang Wang is currently an Assistant Professor at Department of Computer Science and Technology, Harbin Institute of Technology, Shenzhen. Before that, he was a Research Assistant Professor at Department of Computer Science, Hong Kong Baptist University and a Senior Engineer at Tencent (Shenzhen). He received his B.E. degree from South China University of Technology in 2014, and his Ph.D. degree at Department of Computer Science, Hong Kong Baptist University, under supervision of [Prof. X.-W Chu](https://sites.google.com/view/chuxiaowen), in 2020. His research interests include General Purpose GPU Computing, Distributed Computing, and High Performance Machine Learning. 
+Qiang Wang is currently an Assistant Professor at Department of Computer Science and Technology, Harbin Institute of Technology, Shenzhen. Before that, he was a Research Assistant Professor at Department of Computer Science, Hong Kong Baptist University and a Senior Engineer at Tencent (Shenzhen). He received his B.E. degree from South China University of Technology in 2014, and his Ph.D. degree at Department of Computer Science, Hong Kong Baptist University, under supervision of [Prof. X.-W Chu](https://sites.google.com/view/chuxiaowen), in 2020. His research interests include GPU Computing, Energy Efficiency, Distributed Computing, and High Performance Machine Learning. 
 
 ## News
 + \[May 2024\] The paper "Pruner-Zero: Evolving Symbolic Pruning Metric From Scratch for Large Language Models" has been accepted by ICML 2024.
@@ -55,7 +55,7 @@ Qiang Wang is currently an Assistant Professor at Department of Computer Science
 
 ## Professional Activities
 + Conference Organizer
-    + [IWQoS 2024](https://iwqos2024.ieee-iwqos.org/committees/organizing-committee), Web Chair: 
+    + [IWQoS 2024](https://iwqos2024.ieee-iwqos.org/committees/organizing-committee), Web Chair
 + Invited Program Committee Member/Reviewer for Conferences
     + 2024: ECCV(3), CVPR(2), AAAI(2)
     + 2023: AAAI(3), WACV(1), HiPC, BigCom(5)
