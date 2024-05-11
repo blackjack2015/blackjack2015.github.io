@@ -54,6 +54,8 @@ Qiang Wang is currently an Assistant Professor at Department of Computer Science
 + 2011, National Scholarship
 
 ## Professional Activities
++ Conference Organizer
+    + [IWQoS 2024](https://iwqos2024.ieee-iwqos.org/committees/organizing-committee), Web Chair: 
 + Invited Program Committee Member/Reviewer for Conferences
     + 2024: ECCV(3), CVPR(2), AAAI(2)
     + 2023: AAAI(3), WACV(1), HiPC, BigCom(5)
