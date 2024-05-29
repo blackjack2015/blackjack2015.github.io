@@ -20,7 +20,7 @@ author_profile: true
 #### <sup>&dagger;</sup> means equal contribution. \* means corresponding authors.
 
 ## Conference
-+ Peijie Dong, Lujun Li, Zhenheng Tang, Xiang Liu, Xinglin Pan, **Qiang Wang**, Xiaowen Chu, "Pruner-Zero: Evolving Symbolic Pruning Metric From Scratch for Large Language Models," International Conference on Machine Learning (ICML), 2024.
++ Peijie Dong, Lujun Li, Zhenheng Tang, Xiang Liu, Xinglin Pan, **Qiang Wang\***, Xiaowen Chu, "Pruner-Zero: Evolving Symbolic Pruning Metric From Scratch for Large Language Models," International Conference on Machine Learning (ICML), 2024.
 + **Qiang Wang**, Laiyi Li, Weile Luo, Yijia Zhang, Bingqiang Wang, "DSO: A GPU Energy Efficiency Optimizer by Fusing Dynamic and Static Information," IEEE/ACM 30th International Symposium on Quality of Service (IWQoS), 2024.
 + Yizhou Luo, **Qiang Wang\***, Shaohuai Shi, Jiaxin Lai, Shuhan Qi, Jiajia Zhang, and Xuan Wang, "Scheduling Deep Learning Jobs in Multi-Tenant GPU Clusters via Wise Resource Sharing," IEEE/ACM 30th International Symposium on Quality of Service (IWQoS), 2024.
 + Shaohuai Shi, Xinglin Pan, **Qiang Wang\***, Chengjian Liu, Xiaozhe Ren, Zhongzhe Hu, Yu Yang, Bo Li, and Xiaowen Chu, "ScheMoE: An Extensible Mixture-of-Experts Distributed Training System with Tasks Scheduling", EuroSys 2024, Athens, Greece, April 22-25, 2024.
