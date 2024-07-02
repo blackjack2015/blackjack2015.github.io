@@ -20,6 +20,7 @@ author_profile: true
 #### <sup>&dagger;</sup> means equal contribution. \* means corresponding authors.
 
 ## Conference
++ Penglei Sun, Yaoxian Song, Xinglin Pan, Peijie Dong, Xiaofei Yang, **Qiang Wang**, Zhixu Li, Tiefeng Li, Xiaowen Chu, "Multi-Task Domain Adaptation for Language Grounding with 3D Objects", European Conference on Computer Vision (ECCV), 2024.
 + Peijie Dong, Lujun Li, Zhenheng Tang, Xiang Liu, Xinglin Pan, **Qiang Wang\***, Xiaowen Chu, "Pruner-Zero: Evolving Symbolic Pruning Metric From Scratch for Large Language Models," International Conference on Machine Learning (ICML), 2024.
 + **Qiang Wang**, Laiyi Li, Weile Luo, Yijia Zhang, Bingqiang Wang, "DSO: A GPU Energy Efficiency Optimizer by Fusing Dynamic and Static Information," IEEE/ACM 30th International Symposium on Quality of Service (IWQoS), 2024.
 + Yizhou Luo, **Qiang Wang\***, Shaohuai Shi, Jiaxin Lai, Shuhan Qi, Jiajia Zhang, and Xuan Wang, "Scheduling Deep Learning Jobs in Multi-Tenant GPU Clusters via Wise Resource Sharing," IEEE/ACM 30th International Symposium on Quality of Service (IWQoS), 2024.
