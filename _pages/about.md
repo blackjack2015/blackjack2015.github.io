@@ -12,6 +12,7 @@ redirect_from:
 Qiang Wang is currently an Assistant Professor at Department of Computer Science and Technology, Harbin Institute of Technology, Shenzhen. Before that, he was a Research Assistant Professor at Department of Computer Science, Hong Kong Baptist University and a Senior Engineer at Tencent (Shenzhen). He received his B.E. degree from South China University of Technology in 2014, and his Ph.D. degree at Department of Computer Science, Hong Kong Baptist University, under supervision of [Prof. Xiaowen Chu](https://sites.google.com/view/chuxiaowen), in 2020. His research interests include GPU Computing, Energy Efficiency, Distributed Computing, and High Performance Machine Learning. 
 
 ## News
++ \[July 2024\] The papers "3D Question Answering for City Scene Understanding" and "Data Generation Scheme for Thermal Modality with Edge-Guided Adversarial Conditional Diffusion Model" have been accepted by ACMMM 2024.
 + \[July 2024\] The paper "Multi-Task Domain Adaptation for Language Grounding with 3D Objects" has been accepted by ECCV 2024.
 + \[May 2024\] The paper "Pruner-Zero: Evolving Symbolic Pruning Metric From Scratch for Large Language Models" has been accepted by ICML 2024.
 + \[April 2024\] The papers "Scheduling Deep Learning Jobs in Multi-Tenant GPU Clusters via Wise Resource Sharing" and "DSO: A GPU Energy Efficiency Optimizer by Fusing Dynamic and Static Information" have been accepted by IWQoS 2024.
