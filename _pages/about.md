@@ -64,15 +64,15 @@ Qiang Wang is currently an Assistant Professor at Department of Computer Science
     + 2022: GreenCom, HPCC, HiPC(3)
     + 2021: HPCC(6), HiPC(4), ICPADS(2), ICRA(1)
 + Invited Reviewer for Journals
-    + IEEE/ACM Transactions on Networking (ToN)
-    + IEEE Robotics and Automation Letters (RA-L)
-    + ACM Transactions on Design Automation of Electronic Systems (TODAES)
     + IEEE Transactions on Parallel and Distributed Systems (TPDS)
-    + ACM Computing Surveys (CSUR)
-    + IEEE Transactions on Big Data (TBD)
     + IEEE Transactions on Network Science and Engineering (TNSE)
-    + IEEE Network 
     + IEEE Transactions on Cloud Computing (TCC)
+    + IEEE Robotics and Automation Letters (RA-L)
+    + IEEE Transactions on Big Data (TBD)
+    + IEEE Network
     + IEEE Pervasive Computing (PC)
-    + Journal of System Architecture (JSA)
     + IEEE Access
+    + ACM Transactions on Design Automation of Electronic Systems (TODAES)
+    + ACM Computing Surveys (CSUR)
+    + IEEE/ACM Transactions on Networking (ToN)
+    + Journal of System Architecture (JSA)
