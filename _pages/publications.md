@@ -20,6 +20,7 @@ author_profile: true
 #### <sup>&dagger;</sup> means equal contribution. \* means corresponding authors.
 
 ## Conference
++ Peijie Dong, Lujun Li, Xiang Liu, Zhenheng Tang, Xuebo Liu, **Qiang Wang**, Xiaowen Chu, "LPZero: Language Model Zero-cost Proxy Search from Zero", Empirical Methods in Natural Language Processing (EMNLP) Findings, 2024. 
 + Guoqing Zhu, Honghu Pan, **Qiang Wang\***, Chao Tian, Chao Yang, Zhenyu He, "Data Generation Scheme for Thermal Modality with Edge-Guided Adversarial Conditional Diffusion Model", ACM Multimedia (ACMMM), 2024.
 + Penglei Sun, Yaoxian Song, Xiang Liu, Xiaofei Yang, **Qiang Wang\***, Tiefeng Li, Yang Yang, Xiaowen Chu, "3D Question Answering for City Scene Understanding", ACM Multimedia (ACMMM), 2024.
 + Penglei Sun, Yaoxian Song, Xinglin Pan, Peijie Dong, Xiaofei Yang, **Qiang Wang\***, Zhixu Li, Tiefeng Li, Xiaowen Chu, "Multi-Task Domain Adaptation for Language Grounding with 3D Objects", European Conference on Computer Vision (ECCV), 2024.
