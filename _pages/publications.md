@@ -20,6 +20,7 @@ author_profile: true
 #### <sup>&dagger;</sup> means equal contribution. \* means corresponding authors.
 
 ## Conference
++ Qingsong Yan, **Qiang Wang**, Kaiyong Zhao, Jie Chen, Bo Li, Xiaowen Chu, Fei Deng, "SphereFusion: Efficient Panorama Depth Estimation via Gated Fusion", International Conference on 3D Vision (3DV), 2025.
 + Lujun Li, Peijie Dong, Zhenheng Tang, Xiang Liu, **Qiang Wang**, Wenhan Luo, Wei Xue, Qifeng Liu, Xiaowen Chu, Yike Guo, "Discovering Sparsity Allocation for Layer-wise Pruning of Large Language Models
 ", Annual Conference on Neural Information Processing Systems (NeurIPS), 2024.
 + Peijie Dong, Lujun Li, Xiang Liu, Zhenheng Tang, Xuebo Liu, **Qiang Wang**, Xiaowen Chu, "LPZero: Language Model Zero-cost Proxy Search from Zero", Empirical Methods in Natural Language Processing (EMNLP) Findings, 2024. 
