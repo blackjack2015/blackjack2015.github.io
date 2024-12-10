@@ -20,6 +20,7 @@ author_profile: true
 #### <sup>&dagger;</sup> means equal contribution. \* means corresponding authors.
 
 ## Conference
++ Peijie Dong, Lujun Li, Zhenheng Tang, Xiang Liu, Zimian Wei, **Qiang Wang**, Xiaowen Chu, "ParZC: Parametric Zero-Cost Proxies for Efficient NAS", AAAI Conference on Artificial Intelligence (AAAI), 2025.
 + Qingsong Yan, **Qiang Wang**, Kaiyong Zhao, Jie Chen, Bo Li, Xiaowen Chu, Fei Deng, "SphereFusion: Efficient Panorama Depth Estimation via Gated Fusion", International Conference on 3D Vision (3DV), 2025.
 + Lujun Li, Peijie Dong, Zhenheng Tang, Xiang Liu, **Qiang Wang**, Wenhan Luo, Wei Xue, Qifeng Liu, Xiaowen Chu, Yike Guo, "Discovering Sparsity Allocation for Layer-wise Pruning of Large Language Models
 ", Annual Conference on Neural Information Processing Systems (NeurIPS), 2024.
