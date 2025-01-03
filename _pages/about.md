@@ -81,5 +81,5 @@ Qiang Wang is currently an Assistant Professor at Department of Computer Science
     + IEEE Pervasive Computing (PC)
     + IEEE Access
     + ACM Computing Surveys (CSUR)
-    + Expert Systems With Applications
+    + Expert Systems With Applications (ESWA)
     + Journal of System Architecture (JSA)
