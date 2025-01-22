@@ -61,7 +61,7 @@ Qiang Wang is currently an Assistant Professor at Department of Computer Science
 
 ## Professional Activities
 + Conference Organizer
-    + [IEEE MetaCom 2025](https://www.ieee-metacom.org/index.html), Track Chair of "Metaverse Computing, Architectures, and Applications"
+    + [IEEE MetaCom 2025](https://ieee-metacom.org/tech-committee.html), Track Chair of "Metaverse Computing, Architectures, and Applications"
     + [IWQoS 2024](https://iwqos2024.ieee-iwqos.org/committees/organizing-committee), Web Chair
 + Invited Program Committee Member/Reviewer for Conferences
     + 2025: ICDCS, CVPR, WACV(2), AAAI(4)
