@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Qiang Wang is currently an Assistant Professor at Department of Computer Science and Technology, Harbin Institute of Technology, Shenzhen. Before that, he was a Research Assistant Professor at Department of Computer Science, Hong Kong Baptist University and a Senior Engineer at Tencent (Shenzhen). He received his B.E. degree from South China University of Technology in 2014, and his Ph.D. degree at Department of Computer Science, Hong Kong Baptist University, under supervision of [Prof. Xiaowen Chu](https://sites.google.com/view/chuxiaowen), in 2020. His research interests include GPU Computing, Energy Efficiency, Distributed Computing, and High Performance Machine Learning. 
+Qiang Wang is currently a tenure-track Associate Professor at Department of Computer Science and Technology, Harbin Institute of Technology, Shenzhen. Before that, he was a Research Assistant Professor at Department of Computer Science, Hong Kong Baptist University and a Senior Engineer at Tencent (Shenzhen). He received his B.E. degree from South China University of Technology in 2014, and his Ph.D. degree at Department of Computer Science, Hong Kong Baptist University, under supervision of [Prof. Xiaowen Chu](https://sites.google.com/view/chuxiaowen), in 2020. His research interests include GPU Computing, Energy Efficiency, Distributed Computing, and High Performance Machine Learning. 
 
 ## News
 + \[Jan 2025\] The paper "STBLLM: Breaking the 1-Bit Barrier with Structured Binary LLMs" has been accepted by ICLR 2025.
@@ -44,7 +44,8 @@ Qiang Wang is currently an Assistant Professor at Department of Computer Science
 + 2010-2014, B.E., Computer Science and Technology, South China University of Technology, China
 
 ## Work Experience
-+ 2022.05-present, Assistant Professor, Harbin Institute of Technology (Shenzhen)
++ 2025.01-present, Associate Professor (tenure-track), Harbin Institute of Technology (Shenzhen)
++ 2022.05-2024.12, Assistant Professor, Harbin Institute of Technology (Shenzhen)
 + 2022.01-2022.05, Senior Engineer, Tencent (Shenzhen)
 + 2020.09-2022.01, Research Assistant Professor, Hong Kong Baptist University
 + 2020.06-2020.08, Research Intern, Alibaba Ant Financial Services (蚂蚁金服)
