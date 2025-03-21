@@ -20,6 +20,7 @@ author_profile: true
 #### <sup>&dagger;</sup> means equal contribution. \* means corresponding authors.
 
 ## Conference
++ Chao Yang, Chao Tian, Guoqing Zhu, **Qiang Wang\***, Zhenyu He, "CMRFusion: Efficient Feature Decomposition for RGB-T Fusion via Cross Modality Mask Reconstruction", IEEE International Conference on Multimedia and Expo (ICME), 2025.
 + Ruibo Fan, Xiangrui Yu, Peijie Dong, Zeyu Li, Gu Gong, **Qiang Wang\***, Wei Wang, Xiaowen Chu, "SpInfer: Leveraging Low-Level Sparsity for Efficient Large Language Model Inference on GPUs", The European Conference on Computer Systems (EuroSys), 2025.
 + Peijie Dong, Lujun Li, Yuedong Zhong, DaYou Du, Ruibo FAN, Yuhan Chen, Zhenheng Tang, **Qiang Wang\***, Wei Xue, Yike Guo, Xiaowen Chu, "STBLLM: Breaking the 1-Bit Barrier with Structured Binary LLMs", International Conference on Learning Representation (ICLR), 2025.
 + Peijie Dong, Lujun Li, Zhenheng Tang, Xiang Liu, Zimian Wei, **Qiang Wang**, Xiaowen Chu, "ParZC: Parametric Zero-Cost Proxies for Efficient NAS", AAAI Conference on Artificial Intelligence (AAAI), 2025.
