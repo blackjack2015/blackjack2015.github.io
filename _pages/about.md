@@ -86,5 +86,6 @@ Qiang Wang is currently a tenure-track Associate Professor at Department of Comp
     + IEEE Pervasive Computing (PC)
     + IEEE Access
     + ACM Computing Surveys (CSUR)
+    + Computer Vision and Image Understanding (CVIU)
     + Expert Systems With Applications (ESWA)
     + Journal of System Architecture (JSA)
