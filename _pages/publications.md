@@ -15,29 +15,29 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+#### <sup>&dagger;</sup> means equal contribution. \* means corresponding authors.
 -->
 [Complete List in Google Scholar](https://scholar.google.com/citations?user=6YzjcNgAAAAJ&hl=en)
-#### <sup>&dagger;</sup> means equal contribution. \* means corresponding authors.
 
 ## Conference
-+ Chao Yang, Chao Tian, Guoqing Zhu, **Qiang Wang\***, Zhenyu He, "CMRFusion: Efficient Feature Decomposition for RGB-T Fusion via Cross Modality Mask Reconstruction", IEEE International Conference on Multimedia and Expo (ICME), 2025.
-+ Ruibo Fan, Xiangrui Yu, Peijie Dong, Zeyu Li, Gu Gong, **Qiang Wang\***, Wei Wang, Xiaowen Chu, "SpInfer: Leveraging Low-Level Sparsity for Efficient Large Language Model Inference on GPUs", The European Conference on Computer Systems (EuroSys), 2025.
-+ Peijie Dong, Lujun Li, Yuedong Zhong, DaYou Du, Ruibo FAN, Yuhan Chen, Zhenheng Tang, **Qiang Wang\***, Wei Xue, Yike Guo, Xiaowen Chu, "STBLLM: Breaking the 1-Bit Barrier with Structured Binary LLMs", International Conference on Learning Representation (ICLR), 2025.
++ Chao Yang, Chao Tian, Guoqing Zhu, **Qiang Wang**, Zhenyu He, "CMRFusion: Efficient Feature Decomposition for RGB-T Fusion via Cross Modality Mask Reconstruction", IEEE International Conference on Multimedia and Expo (ICME), 2025.
++ Ruibo Fan, Xiangrui Yu, Peijie Dong, Zeyu Li, Gu Gong, **Qiang Wang**, Wei Wang, Xiaowen Chu, "SpInfer: Leveraging Low-Level Sparsity for Efficient Large Language Model Inference on GPUs", The European Conference on Computer Systems (EuroSys), 2025.
++ Peijie Dong, Lujun Li, Yuedong Zhong, DaYou Du, Ruibo FAN, Yuhan Chen, Zhenheng Tang, **Qiang Wang**, Wei Xue, Yike Guo, Xiaowen Chu, "STBLLM: Breaking the 1-Bit Barrier with Structured Binary LLMs", International Conference on Learning Representation (ICLR), 2025.
 + Peijie Dong, Lujun Li, Zhenheng Tang, Xiang Liu, Zimian Wei, **Qiang Wang**, Xiaowen Chu, "ParZC: Parametric Zero-Cost Proxies for Efficient NAS", AAAI Conference on Artificial Intelligence (AAAI), 2025.
-+ Qingsong Yan, **Qiang Wang\***, Kaiyong Zhao, Jie Chen, Bo Li, Xiaowen Chu, Fei Deng, "SphereFusion: Efficient Panorama Depth Estimation via Gated Fusion", International Conference on 3D Vision (3DV), 2025.
++ Qingsong Yan, **Qiang Wang**, Kaiyong Zhao, Jie Chen, Bo Li, Xiaowen Chu, Fei Deng, "SphereFusion: Efficient Panorama Depth Estimation via Gated Fusion", International Conference on 3D Vision (3DV), 2025.
 + Lujun Li, Peijie Dong, Zhenheng Tang, Xiang Liu, **Qiang Wang**, Wenhan Luo, Wei Xue, Qifeng Liu, Xiaowen Chu, Yike Guo, "Discovering Sparsity Allocation for Layer-wise Pruning of Large Language Models
 ", Annual Conference on Neural Information Processing Systems (NeurIPS), 2024.
 + Peijie Dong, Lujun Li, Xiang Liu, Zhenheng Tang, Xuebo Liu, **Qiang Wang**, Xiaowen Chu, "LPZero: Language Model Zero-cost Proxy Search from Zero", Empirical Methods in Natural Language Processing (EMNLP) Findings, 2024. 
-+ Guoqing Zhu, Honghu Pan, **Qiang Wang\***, Chao Tian, Chao Yang, Zhenyu He, "Data Generation Scheme for Thermal Modality with Edge-Guided Adversarial Conditional Diffusion Model", ACM Multimedia (ACMMM), 2024.
-+ Penglei Sun, Yaoxian Song, Xiang Liu, Xiaofei Yang, **Qiang Wang\***, Tiefeng Li, Yang Yang, Xiaowen Chu, "3D Question Answering for City Scene Understanding", ACM Multimedia (ACMMM), 2024.
-+ Penglei Sun, Yaoxian Song, Xinglin Pan, Peijie Dong, Xiaofei Yang, **Qiang Wang\***, Zhixu Li, Tiefeng Li, Xiaowen Chu, "Multi-Task Domain Adaptation for Language Grounding with 3D Objects", European Conference on Computer Vision (ECCV), 2024.
-+ Peijie Dong, Lujun Li, Zhenheng Tang, Xiang Liu, Xinglin Pan, **Qiang Wang\***, Xiaowen Chu, "Pruner-Zero: Evolving Symbolic Pruning Metric From Scratch for Large Language Models," International Conference on Machine Learning (ICML), 2024.
++ Guoqing Zhu, Honghu Pan, **Qiang Wang**, Chao Tian, Chao Yang, Zhenyu He, "Data Generation Scheme for Thermal Modality with Edge-Guided Adversarial Conditional Diffusion Model", ACM Multimedia (ACMMM), 2024.
++ Penglei Sun, Yaoxian Song, Xiang Liu, Xiaofei Yang, **Qiang Wang**, Tiefeng Li, Yang Yang, Xiaowen Chu, "3D Question Answering for City Scene Understanding", ACM Multimedia (ACMMM), 2024.
++ Penglei Sun, Yaoxian Song, Xinglin Pan, Peijie Dong, Xiaofei Yang, **Qiang Wang**, Zhixu Li, Tiefeng Li, Xiaowen Chu, "Multi-Task Domain Adaptation for Language Grounding with 3D Objects", European Conference on Computer Vision (ECCV), 2024.
++ Peijie Dong, Lujun Li, Zhenheng Tang, Xiang Liu, Xinglin Pan, **Qiang Wang**, Xiaowen Chu, "Pruner-Zero: Evolving Symbolic Pruning Metric From Scratch for Large Language Models," International Conference on Machine Learning (ICML), 2024.
 + **Qiang Wang**, Laiyi Li, Weile Luo, Yijia Zhang, Bingqiang Wang, "DSO: A GPU Energy Efficiency Optimizer by Fusing Dynamic and Static Information," IEEE/ACM 30th International Symposium on Quality of Service (IWQoS), 2024.
-+ Yizhou Luo, **Qiang Wang\***, Shaohuai Shi, Jiaxin Lai, Shuhan Qi, Jiajia Zhang, and Xuan Wang, "Scheduling Deep Learning Jobs in Multi-Tenant GPU Clusters via Wise Resource Sharing," IEEE/ACM 30th International Symposium on Quality of Service (IWQoS), 2024.
-+ Shaohuai Shi, Xinglin Pan, **Qiang Wang\***, Chengjian Liu, Xiaozhe Ren, Zhongzhe Hu, Yu Yang, Bo Li, and Xiaowen Chu, "ScheMoE: An Extensible Mixture-of-Experts Distributed Training System with Tasks Scheduling", EuroSys 2024, Athens, Greece, April 22-25, 2024.
-+ Weile Luo, Ruibo Fan, Zongpeng Li, Dayou Du, **Qiang Wang\***, Xiaowen Chu, "Benchmarking and Dissecting the Nvidia Hopper GPU Architecture", IEEE International Parallel and Distributed Processing Symposium (IPDPS), 2024.
-+ Qingsong Yan, **Qiang Wang\***, Kaiyong Zhao, Jie Chen, Bo Li, Xiaowen Chu, Fei Deng, "CF-NeRF: Camera Parameter Free Neural Radiance Fields with Incremental Learning", AAAI Conference on Artificial Intelligence (AAAI), 2024.
-+ Yijia Zhang, **Qiang Wang\***, Zhe Lin, Pengxiang Xu, Bingqiang Wang, "Improving GPU Energy Efficiency through an Application-transparent Frequency Scaling Policy with Performance Assurance", The European Conference on Computer Systems (EuroSys), 2024. 
++ Yizhou Luo, **Qiang Wang**, Shaohuai Shi, Jiaxin Lai, Shuhan Qi, Jiajia Zhang, and Xuan Wang, "Scheduling Deep Learning Jobs in Multi-Tenant GPU Clusters via Wise Resource Sharing," IEEE/ACM 30th International Symposium on Quality of Service (IWQoS), 2024.
++ Shaohuai Shi, Xinglin Pan, **Qiang Wang**, Chengjian Liu, Xiaozhe Ren, Zhongzhe Hu, Yu Yang, Bo Li, and Xiaowen Chu, "ScheMoE: An Extensible Mixture-of-Experts Distributed Training System with Tasks Scheduling", EuroSys 2024, Athens, Greece, April 22-25, 2024.
++ Weile Luo, Ruibo Fan, Zongpeng Li, Dayou Du, **Qiang Wang**, Xiaowen Chu, "Benchmarking and Dissecting the Nvidia Hopper GPU Architecture", IEEE International Parallel and Distributed Processing Symposium (IPDPS), 2024.
++ Qingsong Yan, **Qiang Wang**, Kaiyong Zhao, Jie Chen, Bo Li, Xiaowen Chu, Fei Deng, "CF-NeRF: Camera Parameter Free Neural Radiance Fields with Incremental Learning", AAAI Conference on Artificial Intelligence (AAAI), 2024.
++ Yijia Zhang, **Qiang Wang**, Zhe Lin, Pengxiang Xu, Bingqiang Wang, "Improving GPU Energy Efficiency through an Application-transparent Frequency Scaling Policy with Performance Assurance", The European Conference on Computer Systems (EuroSys), 2024. 
 + Zhenheng Tang, Yuxin Wang, Xin He, Longteng Zhang, Xinglin Pan, **Qiang Wang**, Rongfei Zeng, Shaohuai Shi, Bingsheng He, and Xiaowen Chu, "FusionAI: Decentralized Training and Deploying LLMs with Massive Consumer-Level GPUs," Symposium on Large Language Models (LLM 2023) with IJCAI 2023, Macao, China, August 21, 2023.
 + Ruiqi Zhang, Jie Chen, **Qiang Wang**, "Explicify Neural Implicit Fields for Efficient Dynamic Human Avatar Modeling via a Neural Explicit Surface", ACM International Conference on Multimedia (ACMMM), 2023.
 + Qingsong Yan<sup>&dagger;</sup>, **Qiang Wang**<sup>&dagger;</sup>, Kaiyong Zhao, Bo Li, Xiaowen Chu, Fei Deng, "Rethinking Disparity: A depth range free Multi-View Stereo based on Disparity", AAAI Conference on Artificial Intelligence (AAAI), 2023.
