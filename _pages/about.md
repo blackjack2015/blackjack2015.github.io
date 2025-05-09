@@ -51,7 +51,7 @@ Qiang Wang is currently a tenure-track Associate Professor at Department of Comp
 + 2022.05-2024.12, Assistant Professor, Harbin Institute of Technology (Shenzhen)
 + 2022.01-2022.05, Senior Engineer, Tencent (Shenzhen)
 + 2020.09-2022.01, Research Assistant Professor, Hong Kong Baptist University
-+ 2020.06-2020.08, Research Intern, Alibaba Ant Financial Services (蚂蚁金服)
++ 2020.06-2020.08, Research Intern, Alibaba Ant Technology Group (Beijing)
 + 2019.08-2020.05, Research Intern, Nvidia Corporation
 + 2019-2020, Research Assistant, Hong Kong Baptist University, supervised by [Prof. Xiaowen Chu](https://sites.google.com/view/chuxiaowen)
 + 2015-2019, Teaching Assistant, Department of Computer Science, Hong Kong Baptist University
@@ -69,7 +69,7 @@ Qiang Wang is currently a tenure-track Associate Professor at Department of Comp
     + [IEEE MetaCom 2025](https://ieee-metacom.org/tech-committee.html), Track Chair of "Metaverse Computing, Architectures, and Applications"
     + [IWQoS 2024](https://iwqos2024.ieee-iwqos.org/committees/organizing-committee), Web Chair
 + Invited Program Committee Member/Reviewer for Conferences (the number counts the contributed reviews.)
-    + 2025: ICDCS, ICCV, ACMMM, CVPR(3), WACV(2), AAAI(4), ICME(3)
+    + 2025: ICDCS(8), ICCV, ACMMM, CVPR(3), WACV(2), AAAI(4), ICME(3), ACL(2)
     + 2024: ECCV(3), CVPR(2), AAAI(2), IWQoS(5)
     + 2023: AAAI(3), WACV(1), HiPC, BigCom(5)
     + 2022: GreenCom, HPCC, HiPC(3)
@@ -88,5 +88,6 @@ Qiang Wang is currently a tenure-track Associate Professor at Department of Comp
     + IEEE Access
     + ACM Computing Surveys (CSUR)
     + Computer Vision and Image Understanding (CVIU)
+    + Future Generation Computer Systems (FGCS)
     + Expert Systems With Applications (ESWA)
     + Journal of System Architecture (JSA)
