@@ -78,6 +78,7 @@ Qiang Wang is currently a tenure-track Associate Professor at Department of Comp
     + IEEE Transactions on Parallel and Distributed Systems (TPDS)
     + IEEE Transactions on Network Science and Engineering (TNSE)
     + IEEE Transactions on Cloud Computing (TCC)
+    + IEEE Transactions on Sustainable Computing (TSUSC)
     + IEEE Transactions on Big Data (TBD)
     + IEEE/ACM Transactions on Networking (ToN)
     + ACM Transactions on Design Automation of Electronic Systems (TODAES)
