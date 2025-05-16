@@ -12,6 +12,8 @@ redirect_from:
 Qiang Wang is currently a tenure-track Associate Professor at Department of Computer Science and Technology, Harbin Institute of Technology, Shenzhen. Before that, he was a Research Assistant Professor at Department of Computer Science, Hong Kong Baptist University and a Senior Engineer at Tencent (Shenzhen). He received his B.E. degree from South China University of Technology in 2014, and his Ph.D. degree at Department of Computer Science, Hong Kong Baptist University, under supervision of [Prof. Xiaowen Chu](https://sites.google.com/view/chuxiaowen), in 2020. His research interests include GPU Computing, Energy Efficiency, Distributed Computing, and High Performance Machine Learning. 
 
 ## News
++ \[May 2025\] The paper "UnrealLLM: Towards Highly Controllable and Interactable 3D Scene Generation by LLM-powered Procedural Content Generation" has been accepted by ACL 2025 (Findings).
++ \[May 2025\] The paper "BurstGPT: A Real-World Workload Dataset to Optimize LLM Serving Systems" has been accepted by KDD 2025 (Datasets and Benchmarks Track).
 + \[April 2025\] The paper "SpInfer: Leveraging Low-Level Sparsity for Efficient Large Language Model Inference on GPUs" has received the Best Paper Award of EuroSys 2025.
 + \[March 2025\] The paper "CMRFusion: Efficient Feature Decomposition for RGB-T Fusion via Cross Modality Mask Reconstruction" has been accepted by ICME 2025.
 + \[Jan 2025\] The paper "SpInfer: Leveraging Low-Level Sparsity for Efficient Large Language Model Inference on GPUs" has been accepted by EuroSys 2025.
