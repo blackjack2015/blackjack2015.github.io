@@ -20,7 +20,6 @@ author_profile: true
 [Complete List in Google Scholar](https://scholar.google.com/citations?user=6YzjcNgAAAAJ&hl=en)
 
 ## Conference
-+ Chao Yang, Fan Yang, Chao Tian, Guoqing Zhu, **Qiang Wang**, Zhenyu He, Xiaowen Chu, "SCFusion: Enhance Infrared and Visible Modality Fusion by Preserving Salient Object Consistency", IEEE Internet of Things Journal (IoTJ), 2025.
 + Song Tang, Kaiyong Zhao, Lei Wang, Yuliang Li, Xuebo Liu, Junyi Zou, **Qiang Wang**, Xiaowen Chu, "UnrealLLM: Towards Highly Controllable and Interactable 3D Scene Generation by LLM-powered Procedural Content Generation", Annual Meeting of the Association for Computational Linguistics (ACL, Findings), 2025.
 + Yuxin Wang, Yuhan Chen, Zeyu Li, Xueze Kang, Yuchu Fang, Yeju Zhou, Yang Zheng, Zhenheng Tang, Xin He, Rui Guo, Xin Wang, **Qiang Wang**, Amelie Chi Zhou, Xiaowen Chu, "BurstGPT: A Real-World Workload Dataset to Optimize LLM Serving Systems", ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD, Datasets and Benchmarks Track), 2025.
 + Chao Yang, Chao Tian, Guoqing Zhu, **Qiang Wang**, Zhenyu He, "CMRFusion: Efficient Feature Decomposition for RGB-T Fusion via Cross Modality Mask Reconstruction", IEEE International Conference on Multimedia and Expo (ICME), 2025.
@@ -65,11 +64,12 @@ author_profile: true
 + Shaohuai Shi, **Qiang Wang**, Pengfei Xu, and Xiaowen Chu, "Benchmarking State-of-the-Art Deep Learning Software Tools," the 7th International Conference on Cloud Computing and Big Data (CCBD 2016), Macau, China, Nov 2016.
 
 ## Journal
++ Chao Yang, Fan Yang, Chao Tian, Guoqing Zhu, **Qiang Wang**, Zhenyu He, Xiaowen Chu, "SCFusion: Enhance Infrared and Visible Modality Fusion by Preserving Salient Object Consistency", IEEE Internet of Things Journal (IoTJ), 2025.
 + **Qiang Wang**, Xinxin Mei, Xiaowen Chu, Hai Liu, Yiu Wing Leung, and Zongpeng Li, “Energy-aware Non-preemptive Task Scheduling with Deadline Constraint in DVFS-enabled Heterogeneous Clusters,” IEEE Transactions on Parallel and Distributed Systems (TPDS), 2022.
 + Wenpeng Xing, Jie Chen, Zaifeng Yang, **Qiang Wang**, Yike Guo, "Scale-Consistent Fusion: From Heterogeneous Local Sampling to Global Immersive Rendering", IEEE Transactions on Image Processing (TIP), 2022.
 + Yuxin Wang, **Qiang Wang** and Xiaowen Chu, "Energy-efficient Online Scheduling of Transformer Inference Services on GPU Servers," IEEE Transactions on Green Communications and Networking (TGCN), 2022.
 + **Qiang Wang** and Xiaowen Chu, "GPGPU Performance Estimation with Core and Memory Frequency Scaling," IEEE Transactions on Parallel and Distributed Systems, Vol. 31, No. 12, pages 2865-2881, Dec 2020.
-+ Chengjian Liu<sup>&dagger;</sup>, **Qiang Wang**<sup>&dagger;</sup> and Xiaowen Chu, "ESetStore: an Erasure-coded Storage System with Fast Data Recovery," IEEE Transactions on Parallel and Distributed Systems (TPDS). 2020.
++ Chengjian Liu, **Qiang Wang** and Xiaowen Chu, "ESetStore: an Erasure-coded Storage System with Fast Data Recovery," IEEE Transactions on Parallel and Distributed Systems (TPDS). 2020.
 + Chengjian Liu, **Qiang Wang**, Xiaowen Chu, and Yiu Wing Leung, "G-CRS: GPU Accelerated Cauchy Reed-Solomon Coding," IEEE Transactions on Parallel and Distributed Systems (TPDS), Vol. 29, No. 7, pages 1482-1498, July 2018.
 + **Qiang Wang** and Xiaowen Chu, "GPGPU Power Estimation with Core and Memory Frequency Scaling," ACM SIGMETRICS Performance Evaluation Review, October 2017.
 + Xinxin Mei, **Qiang Wang**, and Xiaowen Chu, "A Survey and Measurement Study of GPU DVFS on Energy Conservation," Digital Communications and Networks, 2017.
