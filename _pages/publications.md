@@ -20,6 +20,8 @@ author_profile: true
 [Complete List in Google Scholar](https://scholar.google.com/citations?user=6YzjcNgAAAAJ&hl=en)
 
 ## Conference
++ Song Tang, **Qiang Wang**, Xiaowen Chu, "SAFormer: Spatially Adaptive Transformer for Efficient and Multi-Resolution Occupancy Prediction", IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025.
++ Qingsong Yan, **Qiang Wang**, Kaiyong Zhao, Jie Chen, Bo Li, Xiaowen Chu, Fei Deng, "RA-NeRF: Robust Neural Radiance Field Reconstruction with Accurate Camera Pose Estimation under Complex Trajectories", IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025.
 + Song Tang, Kaiyong Zhao, Lei Wang, Yuliang Li, Xuebo Liu, Junyi Zou, **Qiang Wang**, Xiaowen Chu, "UnrealLLM: Towards Highly Controllable and Interactable 3D Scene Generation by LLM-powered Procedural Content Generation", Annual Meeting of the Association for Computational Linguistics (ACL, Findings), 2025.
 + Yuxin Wang, Yuhan Chen, Zeyu Li, Xueze Kang, Yuchu Fang, Yeju Zhou, Yang Zheng, Zhenheng Tang, Xin He, Rui Guo, Xin Wang, **Qiang Wang**, Amelie Chi Zhou, Xiaowen Chu, "BurstGPT: A Real-World Workload Dataset to Optimize LLM Serving Systems", ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD, Datasets and Benchmarks Track), 2025.
 + Chao Yang, Chao Tian, Guoqing Zhu, **Qiang Wang**, Zhenyu He, "CMRFusion: Efficient Feature Decomposition for RGB-T Fusion via Cross Modality Mask Reconstruction", IEEE International Conference on Multimedia and Expo (ICME), 2025.
