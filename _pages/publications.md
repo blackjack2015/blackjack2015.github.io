@@ -66,7 +66,7 @@ author_profile: true
 + Shaohuai Shi, **Qiang Wang**, Pengfei Xu, and Xiaowen Chu, "Benchmarking State-of-the-Art Deep Learning Software Tools," the 7th International Conference on Cloud Computing and Big Data (CCBD 2016), Macau, China, Nov 2016.
 
 ## Journal
-+ Chao Yang, Fan Yang, Chao Tian, Guoqing Zhu, **Qiang Wang**, Zhenyu He, Xiaowen Chu, "SCFusion: Enhance Infrared and Visible Modality Fusion by Preserving Salient Object Consistency", IEEE Internet of Things Journal (IoTJ), 2025.
+[j10] Chao Yang, Fan Yang, Chao Tian, Guoqing Zhu, **Qiang Wang**, Zhenyu He, Xiaowen Chu, "SCFusion: Enhance Infrared and Visible Modality Fusion by Preserving Salient Object Consistency", IEEE Internet of Things Journal (IoTJ), 2025.
 + Chao Tian, Chao Yang, Guoqing Zhu, **Qiang Wang**, Zhenyu He, "Learning a robust RGB-Thermal detector for extreme modality imbalance", Pattern Recognition Letters (PRL), 2025.
 + **Qiang Wang**, Xinxin Mei, Xiaowen Chu, Hai Liu, Yiu Wing Leung, and Zongpeng Li, “Energy-aware Non-preemptive Task Scheduling with Deadline Constraint in DVFS-enabled Heterogeneous Clusters,” IEEE Transactions on Parallel and Distributed Systems (TPDS), 2022.
 + Wenpeng Xing, Jie Chen, Zaifeng Yang, **Qiang Wang**, Yike Guo, "Scale-Consistent Fusion: From Heterogeneous Local Sampling to Global Immersive Rendering", IEEE Transactions on Image Processing (TIP), 2022.
