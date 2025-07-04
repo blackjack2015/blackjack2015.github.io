@@ -15,6 +15,7 @@ Qiang Wang is currently a tenure-track Associate Professor at Department of Comp
 + \[June 2025\] The papers "SAFormer: Spatially Adaptive Transformer for Efficient and Multi-Resolution Occupancy Prediction" and "RA-NeRF: Robust Neural Radiance Field Reconstruction with Accurate Camera Pose Estimation under Complex Trajectories" have been accepted by IROS 2025.
 + \[May 2025\] The paper "UnrealLLM: Towards Highly Controllable and Interactable 3D Scene Generation by LLM-powered Procedural Content Generation" has been accepted by ACL 2025 (Findings).
 + \[May 2025\] The paper "BurstGPT: A Real-World Workload Dataset to Optimize LLM Serving Systems" has been accepted by KDD 2025 (Datasets and Benchmarks Track).
++ \[May 2025\] The paper "SCFusion: Enhance Infrared and Visible Modality Fusion by Preserving Salient Object Consistency" has been accepted by IoTJ.
 + \[April 2025\] The paper "SpInfer: Leveraging Low-Level Sparsity for Efficient Large Language Model Inference on GPUs" has received the Best Paper Award of EuroSys 2025.
 + \[March 2025\] The paper "CMRFusion: Efficient Feature Decomposition for RGB-T Fusion via Cross Modality Mask Reconstruction" has been accepted by ICME 2025.
 + \[Jan 2025\] The paper "SpInfer: Leveraging Low-Level Sparsity for Efficient Large Language Model Inference on GPUs" has been accepted by EuroSys 2025.
