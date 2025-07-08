@@ -20,8 +20,8 @@ author_profile: true
 [Complete List in Google Scholar](https://scholar.google.com/citations?user=6YzjcNgAAAAJ&hl=en)
 
 ## Conference
-+ Penglei Sun, Yaoxian Song, Xiangru Zhu, Xiang Liu, **Qiang Wang**, Liuyue, Changqun Xia, Tiefeng Li, Yang Yang, Xiaowen Chu, "City-VLM: Towards Multidomain Perception Scene Understanding via Multimodal Incomplete Learning", ACM Multimedia (ACMMM), 2025.
-+ Xinyu Xiao, Peixi Peng, **Qiang Wang**, XingChao, Shuhan Qi, "Multi-faceted Complementary Learning for Incomplete Multi-view Multi-label Classification", ACM Multimedia (ACMMM), 2025.
++ Penglei Sun, Yaoxian Song, Xiangru Zhu, Xiang Liu, **Qiang Wang**, Yue Liu, Changqun Xia, Tiefeng Li, Yang Yang, Xiaowen Chu, "City-VLM: Towards Multidomain Perception Scene Understanding via Multimodal Incomplete Learning", ACM Multimedia (ACMMM), 2025.
++ Xinyu Xiao, Peixi Peng, **Qiang Wang**, Chao Xing, Shuhan Qi, "Multi-faceted Complementary Learning for Incomplete Multi-view Multi-label Classification", ACM Multimedia (ACMMM), 2025.
 + Song Tang, **Qiang Wang**, Xiaowen Chu, "SAFormer: Spatially Adaptive Transformer for Efficient and Multi-Resolution Occupancy Prediction", IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025.
 + Qingsong Yan, **Qiang Wang**, Kaiyong Zhao, Jie Chen, Bo Li, Xiaowen Chu, Fei Deng, "RA-NeRF: Robust Neural Radiance Field Reconstruction with Accurate Camera Pose Estimation under Complex Trajectories", IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025.
 + Song Tang, Kaiyong Zhao, Lei Wang, Yuliang Li, Xuebo Liu, Junyi Zou, **Qiang Wang**, Xiaowen Chu, "UnrealLLM: Towards Highly Controllable and Interactable 3D Scene Generation by LLM-powered Procedural Content Generation", Annual Meeting of the Association for Computational Linguistics (ACL, Findings), 2025.
