@@ -66,9 +66,13 @@ Qiang Wang is currently a tenure-track Associate Professor at Department of Comp
 + 2014-2015, Research Assistant, Hong Kong Baptist University, supervised by [Prof. Xiaowen Chu](https://sites.google.com/view/chuxiaowen)
 
 ## Awards
++ 2025, HW Talent Funding Awardee
++ 2025, EuroSys 2025, Best Paper Award
++ 2020, IEEE GreenCom 2020, Best Paper Award
 + 2020, RPg Performance Award Scheme, Hong Kong Baptist University \[[link](https://www.comp.hkbu.edu.hk/v1/?pid=48)\]
++ 2018, IEEE DataCom 2018, Best Paper Award
 + 2016-2019, Excellent Teaching Assistant Performance Award \[[link](https://www.comp.hkbu.edu.hk/v1/?pid=48)\]
-+ 2015, Hong Kong PhD Fellowship \[[link](https://cerg1.ugc.edu.hk/hkpfs/index.html)\] \[[link](https://www.comp.hkbu.edu.hk/v1/?pid=48)\]
++ 2015, Hong Kong PhD Fellowship Awardee \[[link](https://cerg1.ugc.edu.hk/hkpfs/index.html)\] \[[link](https://www.comp.hkbu.edu.hk/v1/?pid=48)\]
 + 2013, American Mathematical Contest in Modeling, Honorable Prize
 + 2011, National Scholarship
 
