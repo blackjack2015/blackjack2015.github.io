@@ -12,6 +12,7 @@ redirect_from:
 Qiang Wang is currently a tenure-track Associate Professor at Department of Computer Science and Technology, Harbin Institute of Technology, Shenzhen. Before that, he was a Research Assistant Professor at Department of Computer Science, Hong Kong Baptist University and a Senior Engineer at Tencent (Shenzhen). He received his B.E. degree from South China University of Technology in 2014, and his Ph.D. degree at Department of Computer Science, Hong Kong Baptist University, under supervision of [Prof. Xiaowen Chu](https://sites.google.com/view/chuxiaowen), in 2020. His research interests include GPU Computing, Energy Efficiency, Distributed Computing, and High Performance Machine Learning. 
 
 ## News
++ \[Nov 2025\] The paper "ROME: Maximizing GPU Efficiency for All-Pairs Shortest Path via Taming Fine-Grained Irregularities" has been accepted by PPoPP 2026.
 + \[Nov 2025\] The papers "SALR: Sparsity-Aware Low-Rank Representation for Efficient Fine-Tuning of Large Language Models" and "PipeDiT: Accelerating Diffusion Transformers in Video Generation with Task Pipelining and Model Decoupling" have been accepted by AAAI 2026.
 + \[Oct 2025\] The paper "Castor: Optimizing Deep Learning Job Scheduling in Multi-Tenant GPU Clusters via Intelligent Colocation" has been accepted by TCC.
 + \[Oct 2025\] The paper "AUE: A Normalized Energy Efficiency Metric for AI Servers under LLM Workloads" has been accepted by ICPADS 2025. This paper proposes a new metric to evaluate the energy efficiency of AI servers.
