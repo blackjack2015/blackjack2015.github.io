@@ -19,10 +19,10 @@ author_profile: true
 -->
 [Complete List in Google Scholar](https://scholar.google.com/citations?user=6YzjcNgAAAAJ&hl=en)
 
-#### ~~Underlined~~ are students supervised by/working with me.
+#### Underlined are students supervised by/working with me.
 
 ## Conference
-+ <u>Weile Luo</u>, Yuhan Chen, Xiangrui Yu, **Qiang Wang**, Ruibo Fan, Hongyuan Liu, Xiaowen Chu, "ROME: Maximizing GPU Efficiency for All-Pairs Shortest Path via Taming Fine-Grained Irregularities", ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming (PPoPP), 2026.
++ <ins>Weile Luo</ins>, Yuhan Chen, Xiangrui Yu, **Qiang Wang**, Ruibo Fan, Hongyuan Liu, Xiaowen Chu, "ROME: Maximizing GPU Efficiency for All-Pairs Shortest Path via Taming Fine-Grained Irregularities", ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming (PPoPP), 2026.
 + Sijie Wang, **Qiang Wang**, and Shaohuai Shi, “PipeDiT: Accelerating Diffusion Transformers in Video Generation with Task Pipelining and Model Decoupling,” the 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026), Singapore, January 20-27, 2026.
 + <u>Longteng Zhang</u>, Sen Wu, Shuai Hou, Zhengyu Qing, Zhuo Zheng, Danning Ke, Qihong Lin, **Qiang Wang**, Shaohuai Shi, and Xiaowen Chu, “SALR: Sparsity-Aware Low-Rank Representation for Efficient Fine-Tuning of Large Language Models,” the 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026), Singapore, January 20-27, 2026.
 + Penglei Sun, Yaoxian Song, Xiangru Zhu, Xiang Liu, **Qiang Wang**, Yue Liu, Changqun Xia, Tiefeng Li, Yang Yang, Xiaowen Chu, "City-VLM: Towards Multidomain Perception Scene Understanding via Multimodal Incomplete Learning", ACM Multimedia (ACMMM), 2025.
