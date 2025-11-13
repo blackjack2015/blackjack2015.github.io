@@ -35,7 +35,7 @@ author_profile: true
 + <ins>Ruibo Fan</ins>, Xiangrui Yu, Peijie Dong, Zeyu Li, Gu Gong, **Qiang Wang**, Wei Wang, Xiaowen Chu, "SpInfer: Leveraging Low-Level Sparsity for Efficient Large Language Model Inference on GPUs", The European Conference on Computer Systems (EuroSys), 2025.
 + <ins>Peijie Dong</ins>, Lujun Li, Yuedong Zhong, DaYou Du, Ruibo FAN, Yuhan Chen, Zhenheng Tang, **Qiang Wang**, Wei Xue, Yike Guo, Xiaowen Chu, "STBLLM: Breaking the 1-Bit Barrier with Structured Binary LLMs", International Conference on Learning Representation (ICLR), 2025.
 + Peijie Dong, Lujun Li, Zhenheng Tang, Xiang Liu, Zimian Wei, **Qiang Wang**, Xiaowen Chu, "ParZC: Parametric Zero-Cost Proxies for Efficient NAS", AAAI Conference on Artificial Intelligence (AAAI), 2025.
-+ Qingsong Yan</ins>, **Qiang Wang**, Kaiyong Zhao, Jie Chen, Bo Li, Xiaowen Chu, Fei Deng, "SphereFusion: Efficient Panorama Depth Estimation via Gated Fusion", International Conference on 3D Vision (3DV), 2025.
++ <ins>Qingsong Yan</ins>, **Qiang Wang**, Kaiyong Zhao, Jie Chen, Bo Li, Xiaowen Chu, Fei Deng, "SphereFusion: Efficient Panorama Depth Estimation via Gated Fusion", International Conference on 3D Vision (3DV), 2025.
 + Lujun Li, Peijie Dong, Zhenheng Tang, Xiang Liu, **Qiang Wang**, Wenhan Luo, Wei Xue, Qifeng Liu, Xiaowen Chu, Yike Guo, "Discovering Sparsity Allocation for Layer-wise Pruning of Large Language Models
 ", Annual Conference on Neural Information Processing Systems (NeurIPS), 2024.
 + Peijie Dong, Lujun Li, Xiang Liu, Zhenheng Tang, Xuebo Liu, **Qiang Wang**, Xiaowen Chu, "LPZero: Language Model Zero-cost Proxy Search from Zero", Empirical Methods in Natural Language Processing (EMNLP) Findings, 2024. 
