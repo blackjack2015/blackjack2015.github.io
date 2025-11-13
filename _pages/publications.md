@@ -19,7 +19,7 @@ author_profile: true
 -->
 [Complete List in Google Scholar](https://scholar.google.com/citations?user=6YzjcNgAAAAJ&hl=en)
 
-#### <u>Underlined</u> are students supervised by/working with me.
+#### ~~Underlined~~ are students supervised by/working with me.
 
 ## Conference
 + <u>Weile Luo</u>, Yuhan Chen, Xiangrui Yu, **Qiang Wang**, Ruibo Fan, Hongyuan Liu, Xiaowen Chu, "ROME: Maximizing GPU Efficiency for All-Pairs Shortest Path via Taming Fine-Grained Irregularities", ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming (PPoPP), 2026.
