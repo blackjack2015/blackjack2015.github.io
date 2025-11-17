@@ -90,6 +90,7 @@ Qiang Wang is currently a tenure-track Associate Professor at Department of Comp
     + 2022: GreenCom, HPCC, HiPC(3)
     + 2021: HPCC(6), HiPC(4), ICPADS(2), ICRA(1)
 + Invited Reviewer for Journals
+    + IEEE Transactions on Computers (TC)
     + IEEE Transactions on Parallel and Distributed Systems (TPDS)
     + IEEE Transactions on Network Science and Engineering (TNSE)
     + IEEE Transactions on Cloud Computing (TCC)
@@ -98,6 +99,7 @@ Qiang Wang is currently a tenure-track Associate Professor at Department of Comp
     + IEEE/ACM Transactions on Networking (ToN)
     + ACM Transactions on Design Automation of Electronic Systems (TODAES)
     + IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+    + IEEE Transactions on Dependable and Secure Computing (TDSC)
     + IEEE Robotics and Automation Letters (RA-L)
     + IEEE Network
     + IEEE Pervasive Computing (PC)
