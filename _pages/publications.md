@@ -73,6 +73,7 @@ author_profile: true
 + Shaohuai Shi, **Qiang Wang**, Pengfei Xu, and Xiaowen Chu, "Benchmarking State-of-the-Art Deep Learning Software Tools," the 7th International Conference on Cloud Computing and Big Data (CCBD 2016), Macau, China, Nov 2016.
 
 ## Journal
++ Yifei Liu, Chen Chen, **Qiang Wang**, Yu Feng, Weihao Cui, Quan Chen, Minyi Guo, "Ares: Fair and Efficient Scheduling of Deep Learning Jobs with Elastic Fair Queuing", ACM Transactions on Architecture and Code Optimization (TACO), 2025.
 + Shuhan Qi, Shuhao Zhang, **Qiang Wang**, Jiajia Zhang, Xuan Wang, "Distributed Scalable Multi-Agent Reinforcement Learning with Intrinsic-Episodic Dual Exploration", Future Generation of Computer Systems (FGCS), 2025.
 + <ins>Chao Yang</ins>, Fan Yang, Chao Tian, Guoqing Zhu, **Qiang Wang**, Zhenyu He, Xiaowen Chu, "SCFusion: Enhance Infrared and Visible Modality Fusion by Preserving Salient Object Consistency", IEEE Internet of Things Journal (IoTJ), 2025.
 + Chao Tian, Chao Yang, Guoqing Zhu, **Qiang Wang**, Zhenyu He, "Learning a robust RGB-Thermal detector for extreme modality imbalance", Pattern Recognition Letters (PRL), 2025.
