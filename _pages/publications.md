@@ -22,6 +22,7 @@ author_profile: true
 #### <ins>Underlined</ins> are students supervised by/collaborated with me in the publication.
 
 ## Conference
++ <ins>Ruibo Fan</ins>, Xiangrui Yu, Xinglin Pan, Zeyu Li, Weile Luo, **Qiang Wang**, Wei Wang, Xiaowen Chu, "ZipServ: Fast and Memory-Efficient LLM Inference with Hardware-Aware Lossless Compression", the ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2026.
 + <ins>Weile Luo</ins>, Yuhan Chen, Xiangrui Yu, **Qiang Wang**, Ruibo Fan, Hongyuan Liu, Xiaowen Chu, "ROME: Maximizing GPU Efficiency for All-Pairs Shortest Path via Taming Fine-Grained Irregularities", ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming (PPoPP), 2026.
 + Sijie Wang, **Qiang Wang**, and Shaohuai Shi, “PipeDiT: Accelerating Diffusion Transformers in Video Generation with Task Pipelining and Model Decoupling,” the 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026), Singapore, January 20-27, 2026.
 + <ins>Longteng Zhang</ins>, <ins>Sen Wu</ins>, <ins>Shuai Hou</ins>, <ins>Zhengyu Qing</ins>, Zhuo Zheng, Danning Ke, Qihong Lin, **Qiang Wang**, Shaohuai Shi, and Xiaowen Chu, “SALR: Sparsity-Aware Low-Rank Representation for Efficient Fine-Tuning of Large Language Models,” the 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026), Singapore, January 20-27, 2026.
