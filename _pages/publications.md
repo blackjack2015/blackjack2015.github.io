@@ -22,10 +22,13 @@ author_profile: true
 #### <ins>Underlined</ins> are students supervised by/collaborated with me in the publication.
 
 ## Conference
++ <ins>Duo Sun</ins>, Ximing Fu, **Qiang Wang**, "FastTT: Accelerating Shift-XOR Erasure Coding for Data Storage", IEEE International Parallel and Distributed Processing Symposium (IPDPS), 2026.
 + <ins>Ruibo Fan</ins>, Xiangrui Yu, Xinglin Pan, Zeyu Li, Weile Luo, **Qiang Wang**, Wei Wang, Xiaowen Chu, "ZipServ: Fast and Memory-Efficient LLM Inference with Hardware-Aware Lossless Compression", the ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2026.
 + <ins>Weile Luo</ins>, Yuhan Chen, Xiangrui Yu, **Qiang Wang**, Ruibo Fan, Hongyuan Liu, Xiaowen Chu, "ROME: Maximizing GPU Efficiency for All-Pairs Shortest Path via Taming Fine-Grained Irregularities", ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming (PPoPP), 2026.
++ Yiming Yin, **Qiang Wang**, Shaohuai Shi, Xiaowen Chu, "Accelerating Multi-modal LLM Training with Adaptive Model Placement and Parallelization," IEEE International Conference on Computer Communications (INFOCOM), 2026.
 + Sijie Wang, **Qiang Wang**, and Shaohuai Shi, “PipeDiT: Accelerating Diffusion Transformers in Video Generation with Task Pipelining and Model Decoupling,” the 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026), Singapore, January 20-27, 2026.
-+ <ins>Longteng Zhang</ins>, <ins>Sen Wu</ins>, <ins>Shuai Hou</ins>, <ins>Zhengyu Qing</ins>, Zhuo Zheng, Danning Ke, Qihong Lin, **Qiang Wang**, Shaohuai Shi, and Xiaowen Chu, “SALR: Sparsity-Aware Low-Rank Representation for Efficient Fine-Tuning of Large Language Models,” the 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026), Singapore, January 20-27, 2026.
++ Sijie Wang, **Qiang Wang**, and Shaohuai Shi, "PipeDiT: Accelerating Diffusion Transformers in Video Generation with Task Pipelining and Model Decoupling," the 40th Annual AAAI Conference on Artificial Intelligence (AAAI), Singapore, 2026.
++ <ins>Longteng Zhang</ins>, <ins>Sen Wu</ins>, <ins>Shuai Hou</ins>, <ins>Zhengyu Qing</ins>, Zhuo Zheng, Danning Ke, Qihong Lin, **Qiang Wang**, Shaohuai Shi, and Xiaowen Chu, “SALR: Sparsity-Aware Low-Rank Representation for Efficient Fine-Tuning of Large Language Models,” the 40th Annual AAAI Conference on Artificial Intelligence (AAAI), Singapore, January 20-27, 2026.
 + <ins>Penglei Sun</ins>, Yaoxian Song, Xiangru Zhu, Xiang Liu, **Qiang Wang**, Yue Liu, Changqun Xia, Tiefeng Li, Yang Yang, Xiaowen Chu, "City-VLM: Towards Multidomain Perception Scene Understanding via Multimodal Incomplete Learning", ACM Multimedia (ACMMM), 2025.
 + Xinyu Xiao, Peixi Peng, **Qiang Wang**, Chao Xing, Shuhan Qi, "Multi-faceted Complementary Learning for Incomplete Multi-view Multi-label Classification", ACM Multimedia (ACMMM), 2025.
 + <ins>Song Tang</ins>, **Qiang Wang**, Xiaowen Chu, "SAFormer: Spatially Adaptive Transformer for Efficient and Multi-Resolution Occupancy Prediction", IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025.
@@ -74,8 +77,9 @@ author_profile: true
 + Shaohuai Shi, **Qiang Wang**, Pengfei Xu, and Xiaowen Chu, "Benchmarking State-of-the-Art Deep Learning Software Tools," the 7th International Conference on Cloud Computing and Big Data (CCBD 2016), Macau, China, Nov 2016.
 
 ## Journal
++ <ins>Yizhou Luo</ins>, Jiaxin Lai, Shaohuai Shi, Chen Chen, Shuhan Qi, Jiajia Zhang, **Qiang Wang**, "Castor: Optimizing Deep Learning Job Scheduling in Multi-Tenant GPU Clusters via Intelligent Colocation," IEEE Transactions on Cloud Computing (TCC), 2025.
 + Yifei Liu, Chen Chen, **Qiang Wang**, Yu Feng, Weihao Cui, Quan Chen, Minyi Guo, "Ares: Fair and Efficient Scheduling of Deep Learning Jobs with Elastic Fair Queuing", ACM Transactions on Architecture and Code Optimization (TACO), 2025.
-+ Shuhan Qi, Shuhao Zhang, **Qiang Wang**, Jiajia Zhang, Xuan Wang, "Distributed Scalable Multi-Agent Reinforcement Learning with Intrinsic-Episodic Dual Exploration", Future Generation of Computer Systems (FGCS), 2025.
++ Shuhan Qi, <ins>Shuhao Zhang</ins>, **Qiang Wang**, Jiajia Zhang, Xuan Wang, "Distributed Scalable Multi-Agent Reinforcement Learning with Intrinsic-Episodic Dual Exploration", Future Generation of Computer Systems (FGCS), 2025.
 + <ins>Chao Yang</ins>, Fan Yang, Chao Tian, Guoqing Zhu, **Qiang Wang**, Zhenyu He, Xiaowen Chu, "SCFusion: Enhance Infrared and Visible Modality Fusion by Preserving Salient Object Consistency", IEEE Internet of Things Journal (IoTJ), 2025.
 + Chao Tian, Chao Yang, Guoqing Zhu, **Qiang Wang**, Zhenyu He, "Learning a robust RGB-Thermal detector for extreme modality imbalance", Pattern Recognition Letters (PRL), 2025.
 + **Qiang Wang**, Xinxin Mei, Xiaowen Chu, Hai Liu, Yiu Wing Leung, and Zongpeng Li, “Energy-aware Non-preemptive Task Scheduling with Deadline Constraint in DVFS-enabled Heterogeneous Clusters,” IEEE Transactions on Parallel and Distributed Systems (TPDS), 2022.
